@@ -4,7 +4,8 @@
 # API
 ### デザイン
 <table><tr><td>
-  <A href="">ロゴ</A>
+  <A href="" title="xxxxxxxxxxxxxx
+    aaaaaaa">ロゴ</A>
 </td><td>
   <A href="">シーマ</A>
 </td></tr></table>
