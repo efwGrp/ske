@@ -27,14 +27,13 @@
 </table>
 
 ### リポジトリ定義
-#### 共通設定
 <table>
+<tr><th>共通設定</th></tr>
 <tr><td><a href="">DB関連の設定</a></td></tr>
 <tr><td><a href="">処理前後イベントの設定</a></td></tr>
 <tr><td><a href="">テーブル項目＆モード別デフォルト値の設定</a></td></tr>
 </table>
 
-#### 画面パーツ&項目別の設定
 <table>
 <tr><th>項目</th><th>一覧画面</th><th>入力画面</th><th>入力ダイアログ</th><th>選択ダイアログ</th></tr>
 <tr><th>基本情報</th></tr>
