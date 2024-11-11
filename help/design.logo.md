@@ -5,15 +5,11 @@ skeエンジンはダミーのロゴとファビコンを持っているが、
 
 以下のパスに指定アスペクト比の画像ファイルを格納してください。
 ```
-ロゴ：
-youapp/img/logo.png
-W:H=125:34
-
-ファビコン：
-youapp/img/favicon.png
-W:H=1:1
+youapp/img/
+	favicon.png		//ロゴ			W:H=125:34
+	logo.png		//ファビコン	W:H=1:1
 ```
 
-### 関連箇所
+### ここだよ
 [イメージ](https://efwgrp.github.io/ske_image/svg/design.logo.svg)
 
