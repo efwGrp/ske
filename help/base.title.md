@@ -11,11 +11,11 @@ javaScriptを画面初期化のアドオンにevalで実行させるようにす
 var title=$("title").text();
 $("title").text("new title");
 //入力ダイアログの場合、ダイアログIDは{defId}_inputDialogになる
-var title=K001_inputDialog.dlg.dialog("option","title");
-K001_inputDialog.dlg.dialog("option","title","new title");
+var title=USER_inputDialog.dlg.dialog("option","title");
+USER_inputDialog.dlg.dialog("option","title","new title");
 //と選択ダイアログの場合、ダイアログIDは{defId}_selectDialogになる
-var title=K002_selectDialog.dlg.dialog("option","title");
-K002_selectDialog.dlg.dialog("option","title","new title");
+var title=USER_selectDialog.dlg.dialog("option","title");
+USER_selectDialog.dlg.dialog("option","title","new title");
 ```
 画面初期化のアドオンは以下のようにリストする。
 
