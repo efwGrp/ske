@@ -23,7 +23,7 @@
 <tr><th>共通設定</th></tr>
 <tr><td><a href="help/comm.aboutDb.md">DB関連の設定</a></td></tr>
 <tr><td><a href="help/comm.beforeAfter.md">処理前後イベントの設定</a></td></tr>
-<tr><td><a href="help/comm.saveFieldsByMode.md">テーブル項目＆モード別デフォルト値の設定</a></td></tr>
+<tr><td><a href="help/comm.fields.md">テーブル＆クエリ項目の設定</a></td></tr>
 </table>
 
 <table>
