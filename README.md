@@ -69,7 +69,7 @@
 
 ### ロール定義
 <table>
-<tr><td><a href="help/">メニュー閲覧可の設定</a></td></tr>
-<tr><td><a href="help/">メイン画面閲覧可の設定</a></td></tr>
-<tr><td><a href="help/">画面項目非活性非表示の設定</a></td></tr>
+<tr><td><a href="help/role.menu.md">メニュー閲覧可の設定</a></td></tr>
+<tr><td><a href="help/role.page.md">メイン画面閲覧可の設定</a></td></tr>
+<tr><td><a href="help/role.field.md">画面項目非活性非表示の設定</a></td></tr>
 </table>
