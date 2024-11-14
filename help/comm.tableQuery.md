@@ -1,43 +1,49 @@
-## �e�[�u�����N�G���̐ݒ�
+## テーブル＆クエリの設定
 
-���|�W�g���͊�{�I�Ɉ�e�[�u���΂���CRUD�������`����B
-���̃e�[�u���́A���C���e�[�u���Ə̂���B
+リポジトリは基本的に一つテーブル対するCRUD処理を定義する。
+そのテーブルは、メインテーブルと称する。
 
-�e�[�u���̊i�[�����DB�́A[context.xml](https://github.com/efwGrp/efw4.X/blob/master/help/resources.context.md)�ɒ�`���A���̒�`ID��
-�uJDBC���\�[�X���v�ɓo�^����B�������A�f�t�H���g��JDBC���\�[�Xjdbc/efw�͓o�^�s�v�B
-�V�X�e���������֗��̂��߁A�e�[�u���Ə����l���uDDL�v�ɒ�`�ł���B
+テーブルの格納されるDBは、[context.xml](https://github.com/efwGrp/efw4.X/blob/master/help/resources.context.md)に定義し、その定義IDを
+「JDBCリソース名」に登録する。ただし、デフォルトのJDBCリソースjdbc/efwは登録不要。
+システム初期化便利のため、テーブルと初期値を「DDL」に定義できる。
 
-- ��ʂ̎�v�@�\�̓e�[�u��CRUD�����ł͂Ȃ��ꍇ�A�J�X�^�}�C�Y��ʂőΉ����Ă��������B
-- ��ʂ͕����e�[�u��CRUD�Ɋւ��ꍇ�A���C���̃e�[�u���́u�e�[�u�����v�ɓo�^���Ă��������B
-- �ق��̃e�[�u����CRUD�̓_�C�A���O��ʂőΉ����Ă��������B
-- ���쐫�̂��߉�ʕ����s�̏ꍇ�A�J�X�^�}�C�Y��ʂőΉ����Ă��������B
+- 画面の主要機能はテーブルCRUD処理ではない場合、カスタマイズ画面で対応してください。
+- 画面は複数テーブルCRUDに関わる場合、メインのテーブルは「テーブル名」に登録してください。
+- ほかのテーブルのCRUDはダイアログ画面で対応してください。
+- 操作性のため画面分割不可の場合、カスタマイズ画面で対応してください。
 
 
-�e��`���ڂ͈ȉ��̂悤�Ƀ��X�g����B
+各定義項目は以下のようにリストする。
 
-|����			|����|
+|項目			|説明|
 |-|-|
-|�e�[�u����		|���|�W�g���Ɋi�[���郁�C���e�[�u���̖��́B|
-|�N�G��			|�ق��̃G���e�B�e�B�̍��ڂ��K�v�̏ꍇ�A�e�[�u��JOIN�̃N�G�������B|
-|DDL			|���|�W�g����`�Ɋւ��e�[�u���������쐬�������ꍇ�A�e�[�u��DDL��o�^����B|
-|JDBC���\�[�X��	|�f�t�H���g��jdbc/efw�B�ق��̃��\�[�X�𗘗p����ꍇ�o�^����B|
+|テーブル名		|リポジトリに格納するメインテーブルの名称。※１|
+|クエリ			|ほかのエンティティの項目が必要の場合、テーブルJOINのクエリを作る。|
+|DDL			|リポジトリ定義に関わるテーブルを自動作成したい場合、テーブルDDLを登録する。|
+|JDBCリソース名	|デフォルトはjdbc/efw。ほかのリソースを利用する場合登録する。|
 
-DDL�o�^�̃T���v��
+※１：名称に特殊文字を含む場合、各DBのSQL規則に従ってコーテーションをつけてください。
 ```sql
-CREATE TABLE IF NOT EXISTS "���[�U�}�X�^"
+--postgreSqlの場合、特殊文字を含むエンティティ名はダブルクォーテーションで囲む
+"ユーザマスタA"
+```
+
+DDL登録のサンプル。毎回システム起動時、実行されるので、重複実行を防ぐ工夫が必要。
+```sql
+CREATE TABLE IF NOT EXISTS "ユーザマスタ"
 (
-  "���[�UID" character varying(10) PRIMARY KEY, -- ���[�UID
-  "���������R�[�h" character varying(6), --���������R�[�h
-  "���[�U��" character varying(20) -- ���[�U��
+  "ユーザID" character varying(10) PRIMARY KEY, -- ユーザID
+  "所属部署コード" character varying(6), --所属部署コード
+  "ユーザ名" character varying(20) -- ユーザ名
 );
-insert into "���[�U�}�X�^"
+insert into "ユーザマスタ"
 select 'admin',null
 where not exists (
-	select "���[�UID","���������R�[�h","���[�U��" 
-	from "���[�U�}�X�^" where "���[�UID"='admin'
+	select "ユーザID","所属部署コード","ユーザ名" 
+	from "ユーザマスタ" where "ユーザID"='admin'
 );
 ```
 
-### ��������
+### ここだよ
 
-[��`�ꏊ](https://efwgrp.github.io/ske_image/svg/comm.tableQuery.svg)
+[定義場所](https://efwgrp.github.io/ske_image/svg/comm.tableQuery.svg)
