@@ -25,11 +25,11 @@ USER_selectDialog.dlg.dialog("option","title","new title");
 - 選択ダイアログ＞検索エリア＞[検索条件](condition.conds.md)
 
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.title.listPage.def.svg)、[イメージ](https://efwgrp.github.io/ske_image/svg/base.title.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.title.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.title.listPage.svg)
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.title.inputPage.def.svg)、[イメージ](https://efwgrp.github.io/ske_image/svg/base.title.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.title.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.title.inputPage.svg)
 
-入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.title.inputDialog.def.svg)、[イメージ](https://efwgrp.github.io/ske_image/svg/base.title.inputDialog.svg)
+入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.title.inputDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.title.inputDialog.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.title.selectDialog.def.svg)、[イメージ](https://efwgrp.github.io/ske_image/svg/base.title.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.title.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.title.selectDialog.svg)
 

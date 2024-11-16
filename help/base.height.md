@@ -26,9 +26,9 @@ USER_selectDialog.dlg.dialog("option","height","500px");
 - 選択ダイアログ＞検索エリア＞[検索条件](condition.conds.md)
 
 ### ここだよ
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.height.inputPage.def.svg)、[イメージ](https://efwgrp.github.io/ske_image/svg/base.height.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.height.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.height.inputPage.svg)
 
-入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.height.inputDialog.def.svg)、[イメージ](https://efwgrp.github.io/ske_image/svg/base.height.inputDialog.svg)
+入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.height.inputDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.height.inputDialog.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.height.selectDialog.def.svg)、[イメージ](https://efwgrp.github.io/ske_image/svg/base.height.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.height.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.height.selectDialog.svg)
 
