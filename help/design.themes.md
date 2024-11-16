@@ -25,4 +25,4 @@ skeエンジンはJquery-UIの25種類シーマを搭載しており、ログイン時切り替えできる。
 
 
 ### ここだよ
-[イメージ](https://efwgrp.github.io/ske_image/svg/design.themes.svg)
+[利用場所](https://efwgrp.github.io/ske_image/svg/design.themes.svg)
