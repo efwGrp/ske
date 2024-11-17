@@ -28,12 +28,12 @@ inputタイプの場合<a href="param.formData.md">formData</a>を参照。
 <tr><td>type</td><td>String</td><td>search | input</td></tr>
 <tr><td>aryData</td><td>Array</td><td>
 	<table>
-	<tr><th>属性</th><th>説明</th><th>type = search</th><th>type = input</th></tr>
-	<tr><td>obj</td><td>レコードオブジェクトのJSON文字列、選択ダイアログ戻り値用。</td><td>〇</td><td></td></tr>
-	<tr><td>primarykey</td><td>主キー項目配列のJSON文字列、データ特定のパラメータ用。</td><td>〇</td><td></td></tr>
-	<tr><td colspan=4>＜以下は<a href="comm.tableQuery.md">テーブル＆クエリ</a>の項目＞</td></tr>
-	<tr><td>項目ID</td><td>値</td><td>〇</td><td>〇</td></tr>
-	<tr><td>・・・</td><td>・・・</td><td>〇</td><td>〇</td></tr>
+	<tr><th>属性</th><th>説明</th></tr>
+	<tr><td>obj</td><td>レコードオブジェクトのJSON文字列、選択ダイアログ戻り値用。</td></tr>
+	<tr><td>primarykey</td><td>主キー項目配列のJSON文字列、検索結果の行特定用。</td></tr>
+	<tr><td colspan=2>＜以下は<a href="comm.tableQuery.md">テーブル＆クエリ</a>の項目＞</td></tr>
+	<tr><td>項目ID</td><td>値</td></tr>
+	<tr><td>・・・</td><td>・・・</td></tr>
 	</table>
 
 </td></tr>
