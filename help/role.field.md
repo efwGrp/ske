@@ -22,13 +22,13 @@
 	選択された種別の部品のすべての項目をリストする。
 	<table>
 	<tr><th>項目種別</th><th>listPage</th><th>inputPage</th><th>selectDialog</th><th>inputDialog</th></tr>
-	<tr><td>header icon: [項目ID]</td>		<td>〇</td><td>〇</td><td></td><td></td></tr>
-	<tr><td>header link: [項目ID]</td>		<td>〇</td><td>〇</td><td></td><td></td></tr>
-	<tr><td>condition field: [項目ID]</td>	<td>〇</td><td></td><td>〇</td><td></td></tr>
-	<tr><td>condition button: [項目ID]</td>	<td>〇</td><td></td><td>〇</td><td></td></tr>
-	<tr><td>table column: [項目ID]</td>		<td>〇</td><td></td><td>〇</td><td></td></tr>
-	<tr><td>input field: [項目ID]</td>		<td></td><td>〇</td><td></td><td>〇</td></tr>
-	<tr><td>footer button: [項目ID]</td>	<td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>header icon: [項目ID][項目名]</td>		<td>〇</td><td>〇</td><td></td><td></td></tr>
+	<tr><td>header link: [項目ID][項目名]</td>		<td>〇</td><td>〇</td><td></td><td></td></tr>
+	<tr><td>condition field: [項目ID][項目名]</td>	<td>〇</td><td></td><td>〇</td><td></td></tr>
+	<tr><td>condition button: [項目ID][項目名]</td>	<td>〇</td><td></td><td>〇</td><td></td></tr>
+	<tr><td>table column: [項目ID][項目名]</td>		<td>〇</td><td></td><td>〇</td><td></td></tr>
+	<tr><td>input field: [項目ID][項目名]</td>		<td></td><td>〇</td><td></td><td>〇</td></tr>
+	<tr><td>footer button: [項目ID][項目名]</td>	<td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
 	</table>
 	同じ部品同じ項目種別の項目IDの重複が存在する場合、想定外の動きになってしまう。
 </td></tr>
