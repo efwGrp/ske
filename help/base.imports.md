@@ -14,7 +14,7 @@
 
 ### ここだよ
 
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.imports.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.imports.listPage.def.svg)
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.imports.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.imports.inputPage.def.svg)
 
