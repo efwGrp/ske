@@ -10,8 +10,8 @@
 リポジトリ定義ごとに一覧画面と入力画面をリストする。
 	<table>
 	<tr><th>画面種類</th><th>画面ID：画面名</th></tr>
-	<tr><td>一覧画面</td><td>[リポジトリID]_listPage：画面タイトル</td></tr>
-	<tr><td>入力画面</td><td>[リポジトリID]_inputPage：画面タイトル</td></tr>
+	<tr><td>一覧画面</td><td>{defId}_listPage：画面タイトル</td></tr>
+	<tr><td>入力画面</td><td>{defId}_inputPage：画面タイトル</td></tr>
 	</table>
 画面タイトルが空になる未定義部品を選択しないように。
 </td></tr>

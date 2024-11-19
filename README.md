@@ -36,7 +36,12 @@
 </table>
 
 <table>
-<tr><th>定義項目/部品</th><th>一覧画面</th><th>入力画面</th><th>入力ダイアログ</th><th>選択ダイアログ</th></tr>
+<tr><th>定義項目/部品</th>
+	<th><a href="help/part.listPage.md">一覧画面</a></th>
+	<th><a href="help/part.inputPage.md">入力画面</a></th>
+	<th><a href="help/part.inputDialog.md">入力ダイアログ</a></th>
+	<th><a href="help/part.selectDialog.md">選択ダイアログ</a></th>
+</tr>
 <tr><th>基本情報</th></tr>
 <tr><td><a href="help/base.title.md">タイトル</a></td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
 <tr><td><a href="help/base.width.md">横幅</a></td><td></td><td>〇</td><td>〇</td><td>〇</td></tr>
