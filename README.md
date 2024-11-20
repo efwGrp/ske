@@ -54,8 +54,8 @@
 <tr><td><a href="help/header.logout.md">ログアウト</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
 <tr><td><a href="help/header.menu.md">メニュー</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
 <tr><td><a href="help/header.sidebar.md">サイドバー</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
-<tr><td>[<a href="help/header.icos.md">アイコン</a>]</td><td>〇</td><td>〇</td><td></td><td></td></tr>
-<tr><td>[<a href="help/header.lnks.md">リンク</a>]</td><td>〇</td><td>〇</td><td></td><td></td></tr>
+<tr><td>[<a href="help/header.icos.md">追加アイコン</a>]</td><td>〇</td><td>〇</td><td></td><td></td></tr>
+<tr><td>[<a href="help/header.lnks.md">追加リンク</a>]</td><td>〇</td><td>〇</td><td></td><td></td></tr>
 <tr><th>検索エリア</th></tr>
 <tr><td><a href="help/condition.search.md">検索ボタン</a></td><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><td><a href="help/condition.clear.md">クリアボタン</a></td><td>〇</td><td></td><td></td><td>〇</td></tr>
