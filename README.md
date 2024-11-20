@@ -1,8 +1,6 @@
 # Efw Skeleton Engine
 ## 紹介
 
-## フォルダ構成
-
 ## 手順
 - 環境構築の手順
 - 新しいメニュー追加の手順
@@ -60,7 +58,7 @@
 <tr><td><a href="help/condition.search.md">検索ボタン</a></td><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><td><a href="help/condition.clear.md">クリアボタン</a></td><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><td>[<a href="help/condition.conds.md">検索条件</a>]</td><td>〇</td><td></td><td></td><td>〇</td></tr>
-<tr><td>[<a href="help/btns.md">追加ボタン</a>]</td><td>〇</td><td></td><td></td><td>〇</td></tr>
+<tr><td>[<a href="help/condition.btns.md">追加ボタン</a>]</td><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><th>結果エリア</th></tr>
 <tr><td>[<a href="help/mainTable.ths.md">検索結果</a>]</td><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><th>入力エリア</th></tr>
@@ -78,7 +76,7 @@
 <tr><td><a href="help/footer.attachRef.md">添付ファイル参照ボタン</a><td>〇</td><td></td><td></td><td></td></tr>
 <tr><td><a href="help/footer.save.md">保存ボタン</a><td></td><td>〇</td><td>〇</td><td></td></tr>
 <tr><td><a href="help/footer.close.md">閉じるボタン</a><td></td><td>〇</td><td>〇</td><td>〇</td></tr>
-<tr><td>[<a href="help/btns.md">追加ボタン</a>]</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+<tr><td>[<a href="help/footer.btns.md">追加ボタン</a>]</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
 </table>
 
 ### ロール定義
