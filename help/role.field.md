@@ -30,7 +30,7 @@
 	<tr><td>input field: [項目ID][項目名]</td>		<td></td><td>〇</td><td></td><td>〇</td></tr>
 	<tr><td>footer button: [項目ID][項目名]</td>	<td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
 	</table>
-	同じ部品同じ項目種別の項目IDの重複が存在する場合、想定外の動きになってしまう。
+	同じ部品に項目IDの重複が存在する場合、想定外の動きになってしまう。
 </td></tr>
 <tr><td>非活性項目</td><td>
 	選択された非活性項目をリストする。
