@@ -13,4 +13,4 @@
 ### ここだよ
 一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.search.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/condition.search.listPage.svg)
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.search.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/condition.search.inputPage.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.search.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/condition.search.selectDialog.svg)
