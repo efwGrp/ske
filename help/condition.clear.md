@@ -6,8 +6,8 @@
 
 以下のJquery式で特定可能。
 ```
-#{defId}_condition #btnClear
-#{defId}_selectDialog_condition #btnClear
+#{defId} #btnClear
+#{defId}_selectDialog #btnClear
 ```
 
 ### ここだよ
