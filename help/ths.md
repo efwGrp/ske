@@ -20,8 +20,10 @@
 
 以下のJquery式で特定可能。
 ```
-
+${defId} .MAIN-TABLE TH:nth-child(n),${defId} .MAIN-TABLE TD:nth-child(n)
+${defId}_selectDialog .MAIN-TABLE TH:nth-child(n),${defId}_selectDialog .MAIN-TABLE TD:nth-child(n)
 ```
+選択結果列はIDがないから、順番nで特定する。1番目列はシステム用なので、2からスタートしてください。
 
 ### ここだよ
 一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/ths.listPage.def.svg)、
