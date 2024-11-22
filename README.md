@@ -60,7 +60,7 @@
 <tr><td>[<a href="help/condition.conds.md">検索条件</a>]</td><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><td>[<a href="help/condition.btns.md">追加ボタン</a>]</td><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><th>結果エリア</th></tr>
-<tr><td>[<a href="help/mainTable.ths.md">検索結果</a>]</td><td>〇</td><td></td><td></td><td>〇</td></tr>
+<tr><td>[<a href="help/ths.md">検索結果</a>]</td><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><th>入力エリア</th></tr>
 <tr><td>[<a href="help/input.fds.md">入力項目</a>]</td><td></td><td>〇</td><td>〇</td><td></td></tr>
 <tr><th>フッター</th></tr>
