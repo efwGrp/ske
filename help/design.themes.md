@@ -1,15 +1,15 @@
-## ƒV[ƒ}‚Ìİ’è
+## ãƒ†ãƒ¼ãƒã®è¨­å®š
 
-skeƒGƒ“ƒWƒ“‚ÍJquery-UI‚Ì25í—ŞƒV[ƒ}‚ğ“‹Ú‚µ‚Ä‚¨‚èAƒƒOƒCƒ“Ø‚è‘Ö‚¦‚Å‚«‚éB
+skeã‚¨ãƒ³ã‚¸ãƒ³ã¯Jquery-UIã®25ç¨®é¡ãƒ†ãƒ¼ãƒã‚’æ­è¼‰ã—ã¦ãŠã‚Šã€ãƒ­ã‚°ã‚¤ãƒ³æ™‚åˆ‡ã‚Šæ›¿ãˆã§ãã‚‹ã€‚
 
-ê—pƒV[ƒ}‚ğ“±“ü‚µ‚½‚¢ê‡AˆÈ‰º‚Ì‚æ‚¤‚Éİ’è‚ğs‚¤B
-- ‚Ü‚¸Jquery-UI‚É‚ÄƒV[ƒ}‚ğì¬‚·‚éBhttps://jqueryui.com/themeroller/
+å°‚ç”¨ãƒ†ãƒ¼ãƒã‚’å°å…¥ã—ãŸã„å ´åˆã€ä»¥ä¸‹ã®ã‚ˆã†ã«è¨­å®šã‚’è¡Œã†ã€‚
+- ã¾ãšJquery-UIã«ã¦ãƒ†ãƒ¼ãƒã‚’ä½œæˆã™ã‚‹ã€‚https://jqueryui.com/themeroller/
 
-- ì¬‚µ‚½ƒV[ƒ}‚ğˆÈ‰º‚Ì‚æ‚¤‚Éw’èƒpƒX‚ÉŠi”[‚·‚éB
+- ä½œæˆã—ãŸãƒ†ãƒ¼ãƒã‚’ä»¥ä¸‹ã®ã‚ˆã†ã«æŒ‡å®šãƒ‘ã‚¹ã«æ ¼ç´ã™ã‚‹ã€‚
 
 ```
 [myapp]/jquery-ui/themes/[mytheme]
-	images			//imagesƒtƒHƒ‹ƒ_“à‚Ìƒtƒ@ƒCƒ‹‚ÍƒŠƒl[ƒ€‚µ‚È‚¢
+	images			//imagesãƒ•ã‚©ãƒ«ãƒ€å†…ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¯ãƒªãƒãƒ¼ãƒ ã—ãªã„
 		ui-bg_diagonals-thick_75_f3d8d8_40x40.png
 		ui-bg_dots-small_65_a6a6a6_2x2.png
 		ui-bg_glass_55_fbf8ee_1x400.png
@@ -19,10 +19,10 @@ skeƒGƒ“ƒWƒ“‚ÍJquery-UI‚Ì25í—ŞƒV[ƒ}‚ğ“‹Ú‚µ‚Ä‚¨‚èAƒƒOƒCƒ“Ø‚è‘Ö‚¦‚Å‚«‚éB
 		ui-icons_000080_256x240.png
 		ui-icons_004276_256x240.png
 		ui-icons_ffffff_256x240.png
-	theme.css		//ƒV[ƒ}‚Ìcssƒtƒ@ƒCƒ‹‚ğƒŠƒl[ƒ€‚·‚é
+	theme.css		//ãƒ†ãƒ¼ãƒã®cssãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒªãƒãƒ¼ãƒ ã™ã‚‹
 ```
-- ƒvƒƒpƒeƒBƒtƒ@ƒCƒ‹‚É©ìƒV[ƒ}‚ğ“o˜^‚·‚éB[ƒvƒƒpƒeƒB‚Ìİ’è‚Ö](properties.md)
+- ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ãƒ•ã‚¡ã‚¤ãƒ«ã«è‡ªä½œãƒ†ãƒ¼ãƒã‚’ç™»éŒ²ã™ã‚‹ã€‚[ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã®è¨­å®šã¸](properties.md)
 
 
-### ‚±‚±‚¾‚æ
-[—˜—pêŠ](https://efwgrp.github.io/ske_image/svg/design.themes.svg)
+### ã“ã“ã ã‚ˆ
+[åˆ©ç”¨å ´æ‰€](https://efwgrp.github.io/ske_image/svg/design.themes.svg)

@@ -22,8 +22,8 @@ SQL実行後のイベントは検索結果の加工またはほかの処理を�
 <table>
 <tr><th>引数</th><th>種類</th><th>説明</th></tr>
 <tr><td>condition</td><td>Object</td><td>
-searchタイプの場合<a href="param.searchCondition.md">searchCondition</a>を参照。
-inputタイプの場合<a href="param.formData.md">formData</a>を参照。
+searchタイプの場合<a href="param.searchConditionData.md">searchConditionData</a>を参照。
+inputタイプの場合<a href="param.initFormData.md">initFormData</a>を参照。
 </td></tr>
 <tr><td>type</td><td>String</td><td>search | input</td></tr>
 <tr><td>aryData</td><td>Array</td><td>
@@ -37,8 +37,8 @@ inputタイプの場合<a href="param.formData.md">formData</a>を参照。
 	</table>
 
 </td></tr>
-<tr><td>deleteCondition</td><td>Object</td><td><a href="param.deleteCondition.md">deleteCondition</a>を参照。</td></tr>
-<tr><td>formData</td><td>Object</td><td><a href="param.formData.md">formData</a>を参照。</td></tr>
+<tr><td>deleteCondition</td><td>Object</td><td><a href="param.deleteConditionData.md">deleteConditionData</a>を参照。</td></tr>
+<tr><td>formData</td><td>Object</td><td><a href="param.saveFormData.md">saveFormData</a>を参照。</td></tr>
 </table>
 
 ### ここだよ

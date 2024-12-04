@@ -19,12 +19,12 @@ ske専用のプロパティは以下のようにリストする。
   <tr><td>efw.skeleton.username.key</td><td>USER_NM</td></tr>
   <tr><td colspan=2>ログインユーザ名のセッションキー。<a href="https://efwgrp.github.io/ske_image/svg/properties.username.svg">利用場所</a></td></tr>
   <tr><td>efw.skeleton.theme.key</td><td>LOGIN_THEME</td></tr>
-  <tr><td colspan=2>ログイン時選択されたシーマのセッションキー。</td></tr>
+  <tr><td colspan=2>ログイン時選択されたテーマのセッションキー。</td></tr>
   <tr><td>efw.skeleton.theme.default</td><td>start</td></tr>
-  <tr><td colspan=2>初回システム利用時のシーマを設定する。ログイン時選択されたシーマはクッキーに保存して、次回システム利用時はクッキーからシーマを特定する。</td></tr>
+  <tr><td colspan=2>初回システム利用時のテーマを設定する。ログイン時選択されたテーマはクッキーに保存して、次回システム利用時はクッキーからテーマを特定する。</td></tr>
   <tr><td>efw.skeleton.themes</td><td>base, black-tie, blitzer, cupertino, dark-hive, dot-luv, eggplant, excite-bike, flick, hot-sneaks, humanity, le-frog, mint-choc, overcast, pepper-grinder, redmond, smoothness, south-street, start, sunny, swanky-purse, trontastic, ui-darkness, ui-lightness, vader</td></tr>
-  <tr><td colspan=2>ログイン時選択候補のシーマ名リスト、カンマ区切り。
-  各シーマの詳細はEfwの<a href="https://github.com/efwGrp/efw4.X/blob/master/help/tag.client.md">Client</a>タグの説明をご参考ください。
+  <tr><td colspan=2>ログイン時選択候補のテーマ名リスト、カンマ区切り。
+  各テーマの詳細はEfwの<a href="https://github.com/efwGrp/efw4.X/blob/master/help/tag.client.md">Client</a>タグの説明をご参考ください。
   <a href="https://efwgrp.github.io/ske_image/svg/properties.themes.svg">利用場所</a></td></tr>
   <tr><td>efw.skeleton.title</td><td>Efw Skeleton Engine</td></tr>
   <tr><td colspan=2>システムのタイトル。<a href="https://efwgrp.github.io/ske_image/svg/properties.title.svg">利用場所</a></td></tr>

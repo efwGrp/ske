@@ -12,7 +12,7 @@
 ### デザイン
 <table>
 <tr><td><a href="help/design.logo.md">ロゴの設定</a></td></tr>
-<tr><td><a href="help/design.themes.md">シーマの設定</a></td></tr>
+<tr><td><a href="help/design.themes.md">テーマの設定</a></td></tr>
 </table>
 
 ### プロパティ

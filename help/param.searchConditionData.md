@@ -1,4 +1,4 @@
-## searchCondition
+## searchConditionData
 
 <table>
 	<tr><th>属性</th><th>説明</th></tr>
