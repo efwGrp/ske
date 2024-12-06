@@ -8,21 +8,27 @@
 各種アドオンから一覧画面の標準関数を実行したい場合、以下のAPIをご参考ください。
 
 <table>
-<tr><th>属性＆メソッド名</th><th>インタフェース</th><th>戻り値</th><th>備考</th></tr>
+<tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th><th>備考</th></tr>
+<tr><th>呼び出し</th></tr>
+<tr><td>URL</td><td colspan=3>http://.../myApp/listPage.jsp?defId={defId}</td></tr>
 <tr><th>ページ</th></tr>
 <tr><td>ログインユーザのロールIDを取得</td><td>page.getRoleId ( )</td><td>String</td><td></td></tr>
 <tr><td>ログインユーザのユーザIDを取得</td><td>page.getUserId ( )</td><td>String</td><td></td></tr>
-<tr><td>画面項目制限定義を取得</td><td>{defId}.roleConfig</td><td>void</td><td></td></tr>
-<tr><td>画面項目制限関数を実行</td><td>{defId}.doRoleConfig( )</td><td>void</td><td></td></tr>
+<tr><td>ロール別の画面項目制限を実行</td><td>{defId}.doRoleConfig ( )</td><td>void</td><td></td></tr>
 <tr><th>ヘッダー</th></tr>
+<tr><td>サイドバーを開く</td><td>{defId}.openSideBar( )</td><td>void</td><td>※１</td></tr>
+<tr><td>サイドバーを閉じる</td><td>{defId}.closeSideBar( )</td><td>void</td><td>※１</td></tr>
+<tr><td>ログアウト</td><td>{defId}.logout( )</td><td>void</td><td>※１</td></tr>
+<tr><td>メインメニューへ遷移</td><td>{defId}.gotoMenu( )</td><td>void</td><td>※１</td></tr>
+<tr><td>プロファイル画面を開く</td><td>{defId}.showProfile( )</td><td>void</td><td>※１</td></tr>
 <tr><td>検索</td><td>{defId}.search( newSrchFlg )</td><td>void</td><td></td></tr>
 <tr><td>クリア</td><td>{defId}.clear( )</td><td>void</td><td>※１</td></tr>
 <tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick( )</td><td>void</td><td>※１</td></tr>
 <tr><th>検索結果</th></tr>
-<tr><td>最初のページへを遷移</td><td>{defId}.gotoFirstPage ( )</td><td>void</td><td></td></tr>
-<tr><td>最後のページへを遷移</td><td>{defId}.gotoLastPage ( )</td><td>void</td><td></td></tr>
-<tr><td>前のページへを遷移</td><td>{defId}.gotoPrePage ( )</td><td>void</td><td></td></tr>
-<tr><td>次のページへを遷移</td><td>{defId}.gotoNextPage ( )</td><td>void</td><td></td></tr>
+<tr><td>最初のページへ遷移</td><td>{defId}.gotoFirstPage ( )</td><td>void</td><td></td></tr>
+<tr><td>最後のページへ遷移</td><td>{defId}.gotoLastPage ( )</td><td>void</td><td></td></tr>
+<tr><td>前のページへ遷移</td><td>{defId}.gotoPrePage ( )</td><td>void</td><td></td></tr>
+<tr><td>次のページへ遷移</td><td>{defId}.gotoNextPage ( )</td><td>void</td><td></td></tr>
 <tr><td>行をクリック</td><td>{defId}.clickRow ( row )</td><td>void</td><td></td></tr>
 <tr><td>行をダブルクリック</td><td>{defId}.dblClickRow ( row )</td><td>void</td><td></td></tr>
 <tr><td>選択状態を維持</td><td>{defId}.keepSelection ( row )</td><td>void</td><td></td></tr>
