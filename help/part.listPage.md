@@ -9,16 +9,16 @@
 
 <table>
 <tr><th>属性＆メソッド名</th><th>インタフェース</th><th>戻り値</th><th>備考</th></tr>
-<tr><td colspan=4>＜ページ＞</td></tr>
+<tr><th>ページ</th></tr>
 <tr><td>ログインユーザのロールIDを取得</td><td>page.getRoleId ( )</td><td>String</td><td></td></tr>
 <tr><td>ログインユーザのユーザIDを取得</td><td>page.getUserId ( )</td><td>String</td><td></td></tr>
 <tr><td>画面項目制限定義を取得</td><td>{defId}.roleConfig</td><td>void</td><td></td></tr>
 <tr><td>画面項目制限関数を実行</td><td>{defId}.doRoleConfig( )</td><td>void</td><td></td></tr>
-<tr><td colspan=4>＜ヘッダーエリア＞</td></tr>
+<tr><th>ヘッダー</th></tr>
 <tr><td>検索</td><td>{defId}.search( newSrchFlg )</td><td>void</td><td></td></tr>
 <tr><td>クリア</td><td>{defId}.clear( )</td><td>void</td><td>※１</td></tr>
 <tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick( )</td><td>void</td><td>※１</td></tr>
-<tr><td colspan=4>＜検索結果エリア＞</td></tr>
+<tr><th>検索結果</th></tr>
 <tr><td>最初のページへを遷移</td><td>{defId}.gotoFirstPage ( )</td><td>void</td><td></td></tr>
 <tr><td>最後のページへを遷移</td><td>{defId}.gotoLastPage ( )</td><td>void</td><td></td></tr>
 <tr><td>前のページへを遷移</td><td>{defId}.gotoPrePage ( )</td><td>void</td><td></td></tr>
@@ -31,7 +31,7 @@
 <tr><td>選択行のIDを取得</td><td>{defId}.getSelectId ( )</td><td>String</td><td></td></tr>
 <tr><td>選択行のObjを取得</td><td>{defId}.getSelectObj ( )</td><td>Object</td><td></td></tr>
 <tr><td>検索結果エリアを初期化</td><td>{defId}.clearMainTable( )</td><td>void</td><td></td></tr>
-<tr><td colspan=4>＜フッターエリア＞</td></tr>
+<tr><th>フッター</th></tr>
 <tr><td>新規</td><td>{defId}.add( )</td><td>void</td><td>※１</td></tr>
 <tr><td>コピー新規</td><td>{defId}.copyAdd( )</td><td>void</td><td>※１</td></tr>
 <tr><td>編集</td><td>{defId}.edit( )</td><td>void</td><td>※１</td></tr>
