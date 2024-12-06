@@ -39,6 +39,9 @@
 	<th><a href="help/part.inputPage.md">入力画面</a></th>
 	<th><a href="help/part.inputDialog.md">入力ダイアログ</a></th>
 	<th><a href="help/part.selectDialog.md">選択ダイアログ</a></th>
+	<th><a href="help/part.attachDialog.md">添付ダイアログ</a></th>
+	<th><a href="help/part.downloadDialog.md">ダウンロードダイアログ</a></th>
+	<th><a href="help/part.uploadDialog.md">アップロードダイアログ</a></th>
 </tr>
 <tr><th>基本情報</th></tr>
 <tr><td><a href="help/base.title.md">タイトル</a></td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
