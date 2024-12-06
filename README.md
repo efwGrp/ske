@@ -72,8 +72,8 @@
 <tr><td><a href="help/footer.delete.md">削除ボタン</a><td>〇</td><td></td><td></td><td>〇</td></tr>
 <tr><td><a href="help/footer.download.md">ダウンロードボタン</a><td>〇</td><td></td><td></td><td></td></tr>
 <tr><td><a href="help/footer.upload.md">アップロードボタン</a><td>〇</td><td></td><td></td><td></td></tr>
-<tr><td><a href="help/footer.attachEdit.md">添付ファイル編集ボタン</a><td>〇</td><td></td><td></td><td></td></tr>
-<tr><td><a href="help/footer.attachRef.md">添付ファイル参照ボタン</a><td>〇</td><td></td><td></td><td></td></tr>
+<tr><td><a href="help/footer.attachEdit.md">添付編集ボタン</a><td>〇</td><td></td><td></td><td></td></tr>
+<tr><td><a href="help/footer.attachRef.md">添付参照ボタン</a><td>〇</td><td></td><td></td><td></td></tr>
 <tr><td><a href="help/footer.save.md">保存ボタン</a><td></td><td>〇</td><td>〇</td><td></td></tr>
 <tr><td><a href="help/footer.close.md">閉じるボタン</a><td></td><td>〇</td><td>〇</td><td>〇</td></tr>
 <tr><td>[<a href="help/footer.btns.md">追加ボタン</a>]</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
