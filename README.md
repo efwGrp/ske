@@ -37,7 +37,7 @@
 <table>
 <tr><th>部品</th><th>区分</th></tr>
 <tr><td><a href="help/part.listPage.md">一覧画面</a></td><td>標準部品・定義可能</td></tr>
-<tr><td><a href="help/part.inputDialog.md">入力画面</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.inputPage.md">入力画面</a></td><td>標準部品・定義可能</td></tr>
 <tr><td><a href="help/part.inputDialog.md">入力ダイアログ</a></td><td>標準部品・定義可能</td></tr>
 <tr><td><a href="help/part.selectDialog.md">選択ダイアログ</a></td><td>標準部品・定義可能</td></tr>
 <tr><td><a href="help/part.attachDialog.md">添付ダイアログ</a></td><td>標準部品</td></tr>
