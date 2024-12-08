@@ -26,6 +26,7 @@
 </table>
 
 ### リポジトリ定義
+
 <table>
 <tr><th>共通設定</th></tr>
 <tr><td><a href="help/comm.tableQuery.md">テーブル＆クエリの設定</a></td></tr>
@@ -34,14 +35,22 @@
 </table>
 
 <table>
+<tr><th>部品</th><th>区分</th></tr>
+<tr><td><a href="help/part.listPage.md">一覧画面</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.inputDialog.md">入力画面</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.inputDialog.md">入力ダイアログ</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.selectDialog.md">選択ダイアログ</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.attachDialog.md">添付ダイアログ</a></td><td>標準部品</td></tr>
+<tr><td><a href="help/part.downloadDialog.md">ダウンロードダイアログ</a></td><td>標準部品</td></tr>
+<tr><td><a href="help/part.uploadDialog.md">アップロードダイアログ</a></td><td>標準部品</td></tr>
+</table>
+
+<table>
 <tr><th>定義項目/部品</th>
-	<th><a href="help/part.listPage.md">一覧画面</a></th>
-	<th><a href="help/part.inputPage.md">入力画面</a></th>
-	<th><a href="help/part.inputDialog.md">入力ダイアログ</a></th>
-	<th><a href="help/part.selectDialog.md">選択ダイアログ</a></th>
-	<th><a href="help/part.attachDialog.md">添付ダイアログ</a></th>
-	<th><a href="help/part.downloadDialog.md">ダウンロードダイアログ</a></th>
-	<th><a href="help/part.uploadDialog.md">アップロードダイアログ</a></th>
+	<th>一覧画面</th>
+	<th>入力画面</th>
+	<th>入力ダイアログ</th>
+	<th>選択ダイアログ</th>
 </tr>
 <tr><th>基本情報</th></tr>
 <tr><td><a href="help/base.title.md">タイトル</a></td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>

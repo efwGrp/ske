@@ -1,7 +1,7 @@
 ## 一覧画面
 
 一覧画面は標準部品の一つ。
-標準利用は、リポジトリ定義の一覧画面タブで一覧画面の要素を定義して、
+標準利用は、リポジトリ定義の一覧画面タブで要素を定義して、
 メニュー定義でその一覧画面をメニューとリンクする。
 さらにロール定義でその一覧画面はどのロールでみえるか設定する。
 
@@ -36,19 +36,19 @@
 <tr><td>チェック行のID配列を取得</td><td>{defId}.getSelectIds ( )</td><td>Array</td><td></td></tr>
 <tr><td>選択行のIDを取得</td><td>{defId}.getSelectId ( )</td><td>String</td><td></td></tr>
 <tr><td>選択行のObjを取得</td><td>{defId}.getSelectObj ( )</td><td>Object</td><td></td></tr>
-<tr><td>検索結果エリアを初期化</td><td>{defId}.clearMainTable( )</td><td>void</td><td></td></tr>
+<tr><td>検索結果エリアを初期化</td><td>{defId}.clearMainTable ( )</td><td>void</td><td></td></tr>
 <tr><th>フッター</th></tr>
-<tr><td>新規</td><td>{defId}.add( )</td><td>void</td><td>※１</td></tr>
-<tr><td>コピー新規</td><td>{defId}.copyAdd( )</td><td>void</td><td>※１</td></tr>
-<tr><td>編集</td><td>{defId}.edit( )</td><td>void</td><td>※１</td></tr>
-<tr><td>参照</td><td>{defId}.ref( )</td><td>void</td><td>※１</td></tr>
-<tr><td>削除</td><td>{defId}.delete( )</td><td>void</td><td>※１</td></tr>
-<tr><td>ダウンロード</td><td>{defId}.download( )</td><td>void</td><td>※１</td></tr>
-<tr><td>アップロード</td><td>{defId}.upload( )</td><td>void</td><td>※１</td></tr>
-<tr><td>添付</td><td>{defId}.attachEdit( )</td><td>void</td><td>※１</td></tr>
-<tr><td>添付参照</td><td>{defId}.attachRef( )</td><td>void</td><td>※１</td></tr>
-<tr><td>ダブルクリック実行関数を選定</td><td>{defId}.doDefault( )</td><td>void</td><td></td></tr>
-<tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick( )</td><td>void</td><td>※１</td></tr>
+<tr><td>新規</td><td>{defId}.add ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>コピー新規</td><td>{defId}.copyAdd ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>編集</td><td>{defId}.edit ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>参照</td><td>{defId}.ref ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>削除</td><td>{defId}.delete ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>ダウンロード</td><td>{defId}.download ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>アップロード</td><td>{defId}.upload ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>添付</td><td>{defId}.attachEdit ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>添付参照</td><td>{defId}.attachRef ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>ダブルクリック実行関数を選定</td><td>{defId}.doDefault ( )</td><td>void</td><td></td></tr>
+<tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick ( )</td><td>void</td><td>※１</td></tr>
 </table>
 
 ※１、該当メソッドは、リポジトリ定義により追加または削除される。

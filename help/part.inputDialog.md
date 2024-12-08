@@ -1,7 +1,7 @@
 ## 入力ダイアログ
 
 入力ダイアログは標準部品の一つ。
-標準利用は、リポジトリ定義の入力ダイアログタブで入力ダイアログの要素を定義して、
+標準利用は、リポジトリ定義の入力ダイアログタブで入要素を定義して、
 リポジトリ定義・一覧画面タブのまたは入力画面タブの[インポートダイアログ](base.imports.md)に「{defId}_inputDialog」を登録する。
 
 各種アドオンから入力ダイアログの標準関数を実行したい場合、以下のAPIをご参考ください。
@@ -14,7 +14,6 @@
 <tr><td>編集モードで開く</td><td>{defId}_inputDialog.edit ( selectId, closeCallback )</td><td>void</td><td></td></tr>
 <tr><td>参照モードで開く</td><td>{defId}_inputDialog.ref ( selectId )</td><td>void</td><td></td></tr>
 <tr><th>ダイアログ</th></tr>
-<tr><td>開く</td><td>{defId}_inputDialog.open ( )</td><td>void</td><td></td></tr>
 <tr><td>閉じる</td><td>{defId}_inputDialog.close ( )</td><td>void</td><td></td></tr>
 <tr><td>ロール別の画面項目制限を実行</td><td>{defId}.doRoleConfig ( mode )</td><td>void</td><td></td></tr>
 <tr><th>フッター</th></tr>
@@ -33,7 +32,7 @@
 
 ```
 //主キー配列のJSON文字列
-"[\"admin\"]"
+"[\"PK1_1\",\"PK1_2\"]"
 ```
 </td></tr>
 </table>
