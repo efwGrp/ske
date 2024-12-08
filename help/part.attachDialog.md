@@ -8,10 +8,12 @@
 添付ボタンではない箇所から利用したい場合、以下のAPIをご参考ください。
 
 <table>
-<tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th></tr>
-<tr><td>開く</td><td>attachDialog.open ( home, readOnly, selectCallbck, closeCallback )</td><td>void</td></tr>
-<tr><td>閉じる</td><td>attachDialog.close ( )</td><td>void</td></tr>
-<tr><td>選択</td><td>attachDialog.select ( )</td><td>void</td></tr>
+<tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th><th>備考</th></tr>
+<tr><th>呼び出し</th></tr>
+<tr><td>開く</td><td>attachDialog.open ( home, readOnly, selectCallbck, closeCallback )</td><td>void</td><td></td></tr>
+<tr><th>フッター</th></tr>
+<tr><td>選択</td><td>attachDialog.select ( )</td><td>void</td><td></td></tr>
+<tr><td>閉じる</td><td>attachDialog.close ( )</td><td>void</td><td></td></tr>
 </table>
 
 <table>
