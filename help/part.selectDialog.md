@@ -10,9 +10,6 @@
 <tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th><th>備考</th></tr>
 <tr><th>呼び出し</th></tr>
 <tr><td>開く</td><td>{defId}_selectDialog.open ( selectCallback )</td><td>void</td><td></td></tr>
-<tr><th>ダイアログ</th></tr>
-<tr><td>閉じる</td><td>{defId}_selectDialog.close ( )</td><td>void</td><td></td></tr>
-<tr><td>ロール別の画面項目制限を実行</td><td>{defId}_selectDialog.doRoleConfig ( )</td><td>void</td><td></td></tr>
 <tr><th>ヘッダー</th></tr>
 <tr><td>検索</td><td>{defId}_selectDialog.search( newSrchFlg )</td><td>void</td><td></td></tr>
 <tr><td>クリア</td><td>{defId}_selectDialog.clear( )</td><td>void</td><td>※１</td></tr>
@@ -29,6 +26,7 @@
 <tr><td>検索結果エリアを初期化</td><td>{defId}_selectDialog.clearMainTable ( )</td><td>void</td><td></td></tr>
 <tr><th>フッター</th></tr>
 <tr><td>選択</td><td>{defId}_selectDialog.select ( )</td><td>void</td><td>※１</td></tr>
+<tr><td>閉じる</td><td>{defId}_selectDialog.close ( )</td><td>void</td><td></td></tr>
 <tr><td>新規</td><td>{defId}_selectDialog.add ( )</td><td>void</td><td>※１</td></tr>
 <tr><td>コピー新規</td><td>{defId}_selectDialog.copyAdd ( )</td><td>void</td><td>※１</td></tr>
 <tr><td>編集</td><td>{defId}_selectDialog.edit ( )</td><td>void</td><td>※１</td></tr>
@@ -36,6 +34,8 @@
 <tr><td>削除</td><td>{defId}_selectDialog.delete ( )</td><td>void</td><td>※１</td></tr>
 <tr><td>ダブルクリック実行関数を選定</td><td>{defId}_selectDialog.doDefault ( )</td><td>void</td><td></td></tr>
 <tr><td>追加ボタンをクリック</td><td>{defId}_selectDialog.{btnId}_onClick ( )</td><td>void</td><td>※１</td></tr>
+<tr><th>ダイアログ</th></tr>
+<tr><td>ロール別の画面項目制限を実行</td><td>{defId}_selectDialog.doRoleConfig ( )</td><td>void</td><td></td></tr>
 </table>
 
 ※１、該当メソッドは、リポジトリ定義により追加または削除される。

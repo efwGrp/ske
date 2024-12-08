@@ -12,10 +12,6 @@
 <tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th><th>備考</th></tr>
 <tr><th>呼び出し</th></tr>
 <tr><td>URL</td><td colspan=3>http://.../myApp/inputPage.jsp?defId={defId}&mode={mode}&selectId={selectId}</td></tr>
-<tr><th>ページ</th></tr>
-<tr><td>ログインユーザのロールIDを取得</td><td>page.getRoleId ( )</td><td>String</td><td></td></tr>
-<tr><td>ログインユーザのユーザIDを取得</td><td>page.getUserId ( )</td><td>String</td><td></td></tr>
-<tr><td>ロール別の画面項目制限を実行</td><td>{defId}.doRoleConfig ( mode )</td><td>void</td><td></td></tr>
 <tr><th>ヘッダー</th></tr>
 <tr><td>サイドバーを開く</td><td>{defId}.openSideBar( )</td><td>void</td><td>※１</td></tr>
 <tr><td>サイドバーを閉じる</td><td>{defId}.closeSideBar( )</td><td>void</td><td>※１</td></tr>
@@ -26,6 +22,10 @@
 <tr><td>保存</td><td>{defId}.save( )</td><td>void</td><td>※１</td></tr>
 <tr><td>閉じる</td><td>{defId}.close( )</td><td>void</td><td>※１</td></tr>
 <tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick( )</td><td>void</td><td>※１</td></tr>
+<tr><th>ページ</th></tr>
+<tr><td>ログインユーザのロールIDを取得</td><td>page.getRoleId ( )</td><td>String</td><td></td></tr>
+<tr><td>ログインユーザのユーザIDを取得</td><td>page.getUserId ( )</td><td>String</td><td></td></tr>
+<tr><td>ロール別の画面項目制限を実行</td><td>{defId}.doRoleConfig ( mode )</td><td>void</td><td></td></tr>
 </table>
 
 ※１、該当メソッドは、リポジトリ定義により追加または削除される。

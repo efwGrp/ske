@@ -1,37 +1,37 @@
-## “ü—Íƒ_ƒCƒAƒƒO
+## å…¥åŠ›ãƒ€ã‚¤ã‚¢ãƒ­ã‚°
 
-“ü—Íƒ_ƒCƒAƒƒO‚Í•W€•”•i‚Ìˆê‚ÂB
-•W€—˜—p‚ÍAƒŠƒ|ƒWƒgƒŠ’è‹`‚Ì“ü—Íƒ_ƒCƒAƒƒOƒ^ƒu‚Å“ü—v‘f‚ð’è‹`‚µ‚ÄA
-ƒŠƒ|ƒWƒgƒŠ’è‹`Eˆê——‰æ–Êƒ^ƒu‚Ì‚Ü‚½‚Í“ü—Í‰æ–Êƒ^ƒu‚Ì[ƒCƒ“ƒ|[ƒgƒ_ƒCƒAƒƒO](base.imports.md)‚Éu{defId}_inputDialogv‚ð“o˜^‚·‚éB
+å…¥åŠ›ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ã¯æ¨™æº–éƒ¨å“ã®ä¸€ã¤ã€‚
+æ¨™æº–åˆ©ç”¨ã¯ã€ãƒªãƒã‚¸ãƒˆãƒªå®šç¾©ã®å…¥åŠ›ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ã‚¿ãƒ–ã§å…¥è¦ç´ ã‚’å®šç¾©ã—ã¦ã€
+ãƒªãƒã‚¸ãƒˆãƒªå®šç¾©ãƒ»ä¸€è¦§ç”»é¢ã‚¿ãƒ–ã®ã¾ãŸã¯å…¥åŠ›ç”»é¢ã‚¿ãƒ–ã®[ã‚¤ãƒ³ãƒãƒ¼ãƒˆãƒ€ã‚¤ã‚¢ãƒ­ã‚°](base.imports.md)ã«ã€Œ{defId}_inputDialogã€ã‚’ç™»éŒ²ã™ã‚‹ã€‚
 
-ŠeŽíƒAƒhƒIƒ“‚©‚ç“ü—Íƒ_ƒCƒAƒƒO‚Ì•W€ŠÖ”‚ðŽÀs‚µ‚½‚¢ê‡AˆÈ‰º‚ÌAPI‚ð‚²ŽQl‚­‚¾‚³‚¢B
+å„ç¨®ã‚¢ãƒ‰ã‚ªãƒ³ã‹ã‚‰å…¥åŠ›ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ã®æ¨™æº–é–¢æ•°ã‚’å®Ÿè¡Œã—ãŸã„å ´åˆã€ä»¥ä¸‹ã®APIã‚’ã”å‚è€ƒãã ã•ã„ã€‚
 
 <table>
-<tr><th>ƒƒ\ƒbƒh–¼</th><th>ƒCƒ“ƒ^ƒtƒF[ƒX</th><th>–ß‚è’l</th><th>”õl</th></tr>
-<tr><th>ŒÄ‚Ño‚µ</th></tr>
-<tr><td>V‹Kƒ‚[ƒh‚ÅŠJ‚­</td><td>{defId}_inputDialog.add ( closeCallback )</td><td>void</td><td></td></tr>
-<tr><td>ƒRƒs[V‹Kƒ‚[ƒh‚ÅŠJ‚­</td><td>{defId}_inputDialog.copyAdd ( selectId, closeCallback )</td><td>void</td><td></td></tr>
-<tr><td>•ÒWƒ‚[ƒh‚ÅŠJ‚­</td><td>{defId}_inputDialog.edit ( selectId, closeCallback )</td><td>void</td><td></td></tr>
-<tr><td>ŽQÆƒ‚[ƒh‚ÅŠJ‚­</td><td>{defId}_inputDialog.ref ( selectId )</td><td>void</td><td></td></tr>
-<tr><th>ƒ_ƒCƒAƒƒO</th></tr>
-<tr><td>•Â‚¶‚é</td><td>{defId}_inputDialog.close ( )</td><td>void</td><td></td></tr>
-<tr><td>ƒ[ƒ‹•Ê‚Ì‰æ–Ê€–Ú§ŒÀ‚ðŽÀs</td><td>{defId}.doRoleConfig ( mode )</td><td>void</td><td></td></tr>
-<tr><th>ƒtƒbƒ^[</th></tr>
-<tr><td>•Û‘¶</td><td>{defId}_inputDialog.save ( )</td><td>void</td><td>¦‚P</td></tr>
-<tr><td>’Ç‰Áƒ{ƒ^ƒ“‚ðƒNƒŠƒbƒN</td><td>{defId}_inputDialog.{btnId}_onClick ( )</td><td>void</td><td>¦‚P</td></tr>
+<tr><th>ãƒ¡ã‚½ãƒƒãƒ‰å</th><th>ã‚¤ãƒ³ã‚¿ãƒ•ã‚§ãƒ¼ã‚¹</th><th>æˆ»ã‚Šå€¤</th><th>å‚™è€ƒ</th></tr>
+<tr><th>å‘¼ã³å‡ºã—</th></tr>
+<tr><td>æ–°è¦ãƒ¢ãƒ¼ãƒ‰ã§é–‹ã</td><td>{defId}_inputDialog.add ( closeCallback )</td><td>void</td><td></td></tr>
+<tr><td>ã‚³ãƒ”ãƒ¼æ–°è¦ãƒ¢ãƒ¼ãƒ‰ã§é–‹ã</td><td>{defId}_inputDialog.copyAdd ( selectId, closeCallback )</td><td>void</td><td></td></tr>
+<tr><td>ç·¨é›†ãƒ¢ãƒ¼ãƒ‰ã§é–‹ã</td><td>{defId}_inputDialog.edit ( selectId, closeCallback )</td><td>void</td><td></td></tr>
+<tr><td>å‚ç…§ãƒ¢ãƒ¼ãƒ‰ã§é–‹ã</td><td>{defId}_inputDialog.ref ( selectId )</td><td>void</td><td></td></tr>
+<tr><th>ãƒ•ãƒƒã‚¿ãƒ¼</th></tr>
+<tr><td>è¿½åŠ ãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯</td><td>{defId}_inputDialog.{btnId}_onClick ( )</td><td>void</td><td>â€»ï¼‘</td></tr>
+<tr><td>ä¿å­˜</td><td>{defId}_inputDialog.save ( )</td><td>void</td><td>â€»ï¼‘</td></tr>
+<tr><td>é–‰ã˜ã‚‹</td><td>{defId}_inputDialog.close ( )</td><td>void</td><td></td></tr>
+<tr><th>ãƒ€ã‚¤ã‚¢ãƒ­ã‚°</th></tr>
+<tr><td>ãƒ­ãƒ¼ãƒ«åˆ¥ã®ç”»é¢é …ç›®åˆ¶é™ã‚’å®Ÿè¡Œ</td><td>{defId}.doRoleConfig ( mode )</td><td>void</td><td></td></tr>
 </table>
 
-¦‚PAŠY“–ƒƒ\ƒbƒh‚ÍAƒŠƒ|ƒWƒgƒŠ’è‹`‚É‚æ‚è’Ç‰Á‚Ü‚½‚Ííœ‚³‚ê‚éB
+â€»ï¼‘ã€è©²å½“ãƒ¡ã‚½ãƒƒãƒ‰ã¯ã€ãƒªãƒã‚¸ãƒˆãƒªå®šç¾©ã«ã‚ˆã‚Šè¿½åŠ ã¾ãŸã¯å‰Šé™¤ã•ã‚Œã‚‹ã€‚
 
 <table>
-<tr><th>ˆø”</th><th>Ží—Þ</th><th>à–¾</th></tr>
+<tr><th>å¼•æ•°</th><th>ç¨®é¡ž</th><th>èª¬æ˜Ž</th></tr>
 <tr><td>mode</td><td>String</td><td>add | copyAdd | edit | ref</td></tr>
-<tr><td>closeCallback</td><td>function ( )</td><td>•Â‚¶‚éƒR[ƒ‹ƒoƒbƒNB</td></tr>
+<tr><td>closeCallback</td><td>function ( )</td><td>é–‰ã˜ã‚‹ã‚³ãƒ¼ãƒ«ãƒãƒƒã‚¯ã€‚</td></tr>
 <tr><td>selectId</td><td>String</td><td>
-‘I‘ðs‚ÌŽåƒL[”z—ñ‚ÌJSON•¶Žš—ñB
+é¸æŠžè¡Œã®ä¸»ã‚­ãƒ¼é…åˆ—ã®JSONæ–‡å­—åˆ—ã€‚
 
 ```
-//ŽåƒL[”z—ñ‚ÌJSON•¶Žš—ñ
+//ä¸»ã‚­ãƒ¼é…åˆ—ã®JSONæ–‡å­—åˆ—
 "[\"PK1_1\",\"PK1_2\"]"
 ```
 </td></tr>
