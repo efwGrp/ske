@@ -9,23 +9,23 @@
 各種アドオンから入力画面の標準関数を実行したい場合、以下のAPIをご参考ください。
 
 <table>
-<tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th><th>備考</th></tr>
+<tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th><th>説明</th></tr>
 <tr><th>呼び出し</th></tr>
-<tr><td>URL</td><td colspan=3>http://.../myApp/inputPage.jsp?defId={defId}&mode={mode}&selectId={selectId}</td></tr>
+<tr><td>URL</td><td colspan=2>http://.../myApp/inputPage.jsp?defId={defId}&mode={mode}&selectId={selectId}</td><td>{defId}_inputPage_initイベントを実行する。</td></tr>
 <tr><th>ヘッダー</th></tr>
 <tr><td>サイドバーを開く</td><td>{defId}.openSideBar( )</td><td>void</td><td>※１</td></tr>
 <tr><td>サイドバーを閉じる</td><td>{defId}.closeSideBar( )</td><td>void</td><td>※１</td></tr>
-<tr><td>ログアウト</td><td>{defId}.logout( )</td><td>void</td><td>※１</td></tr>
-<tr><td>メインメニューへ遷移</td><td>{defId}.gotoMenu( )</td><td>void</td><td>※１</td></tr>
-<tr><td>プロファイル画面を開く</td><td>{defId}.showProfile( )</td><td>void</td><td>※１</td></tr>
+<tr><td>ログアウト</td><td>{defId}.logout( )</td><td>void</td><td>※１、head_logoutイベントを実行する。</td></tr>
+<tr><td>メインメニューへ遷移</td><td>{defId}.gotoMenu( )</td><td>void</td><td>※１、LG02.jspへ遷移する。</td></tr>
+<tr><td>プロファイル画面を開く</td><td>{defId}.showProfile( )</td><td>void</td><td>※１、<a href="part.inputPage.md">inputPage.jsp</a>へ遷移する。</td></tr>
 <tr><th>フッター</th></tr>
-<tr><td>保存</td><td>{defId}.save( )</td><td>void</td><td>※１</td></tr>
+<tr><td>保存</td><td>{defId}.save( )</td><td>void</td><td>※１、{defId}_inputPage_saveイベントを実行する。</td></tr>
 <tr><td>閉じる</td><td>{defId}.close( )</td><td>void</td><td>※１</td></tr>
-<tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick( )</td><td>void</td><td>※１</td></tr>
+<tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick( )</td><td>void</td><td>※１、{defId}_inputPage_touchイベントを実行する。</td></tr>
 <tr><th>ページ</th></tr>
 <tr><td>ログインユーザのロールIDを取得</td><td>page.getRoleId ( )</td><td>String</td><td></td></tr>
 <tr><td>ログインユーザのユーザIDを取得</td><td>page.getUserId ( )</td><td>String</td><td></td></tr>
-<tr><td>ロール別の画面項目制限を実行</td><td>{defId}.doRoleConfig ( mode )</td><td>void</td><td></td></tr>
+<tr><td>ロール別の画面項目制限を実行</td><td>{defId}.doRoleConfig ( mode )</td><td>void</td><td>ロール定義の<a href="role.field.md">画面項目非活性非表示]の設定</a>を実行する。</td></tr>
 </table>
 
 ※１、該当メソッドは、リポジトリ定義により追加または削除される。
