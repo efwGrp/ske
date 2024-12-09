@@ -27,11 +27,11 @@ Excelテンプレートの「data」シートに出力し、表示用シート�
 ダウンロードボタンではない箇所から利用したい場合、以下のAPIをご参考ください。
 
 <table>
-<tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th><th>備考</th></tr>
+<tr><th>メソッド名</th><th>インタフェース</th><th>戻り値</th><th>説明</th></tr>
 <tr><th>呼び出し</th></tr>
-<tr><td>開く</td><td>downloadDialog.open ( defId, selectIds )</td><td>void</td><td></td></tr>
+<tr><td>開く</td><td>downloadDialog.open ( defId, selectIds )</td><td>void</td><td>downloadDialog_initイベントを実行する。</td></tr>
 <tr><th>フッター</th></tr>
-<tr><td>ダウンロード</td><td>downloadDialog.download ( )</td><td>void</td><td></td></tr>
+<tr><td>ダウンロード</td><td>downloadDialog.download ( )</td><td>void</td><td>{defId}_listPage_downloadイベントを実行する。</td></tr>
 <tr><td>閉じる</td><td>downloadDialog.close ( )</td><td>void</td><td></td></tr>
 </table>
 
