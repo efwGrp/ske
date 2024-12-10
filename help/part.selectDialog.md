@@ -59,3 +59,9 @@ USER_selectDialog.open({
 <tr><td>newSrchFlg</td><td>Boolean</td><td>true：新しい検索、false：改ページ検索orソース切替検索</td></tr>
 <tr><td>row</td><td>Htmlタグ</td><td>選択された行。</td></tr>
 </table>
+
+
+## ここだよ
+
+[イメージ](https://efwgrp.github.io/ske_image/img/selectDialog.png)
+

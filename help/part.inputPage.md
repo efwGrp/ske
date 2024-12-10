@@ -19,9 +19,9 @@
 <tr><td>メインメニューへ遷移</td><td>{defId}.gotoMenu( )</td><td>void</td><td>※１、LG02.jspへ遷移する。</td></tr>
 <tr><td>プロファイル画面を開く</td><td>{defId}.showProfile( )</td><td>void</td><td>※１、<a href="part.inputPage.md">inputPage.jsp</a>へ遷移する。</td></tr>
 <tr><th>フッター</th></tr>
+<tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick( )</td><td>void</td><td>※１、{defId}_inputPage_touchイベントを実行する。</td></tr>
 <tr><td>保存</td><td>{defId}.save( )</td><td>void</td><td>※１、{defId}_inputPage_saveイベントを実行する。</td></tr>
 <tr><td>閉じる</td><td>{defId}.close( )</td><td>void</td><td>※１</td></tr>
-<tr><td>追加ボタンをクリック</td><td>{defId}.{btnId}_onClick( )</td><td>void</td><td>※１、{defId}_inputPage_touchイベントを実行する。</td></tr>
 <tr><th>ページ</th></tr>
 <tr><td>ログインユーザのロールIDを取得</td><td>page.getRoleId ( )</td><td>String</td><td></td></tr>
 <tr><td>ログインユーザのユーザIDを取得</td><td>page.getUserId ( )</td><td>String</td><td></td></tr>
@@ -44,3 +44,7 @@
 ```
 </td></tr>
 </table>
+
+## ここだよ
+
+[イメージ](https://efwgrp.github.io/ske_image/img/inputPage.png)
