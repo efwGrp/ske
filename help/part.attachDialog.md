@@ -24,9 +24,7 @@
 設定される場合、選択ボタンが表示する。
 選択ボタンを押す場合、選択されたファイルのパスと名称をfilename引数として
 選択コールバックに渡して実行する。</td></tr>
-<tr><td>closeCallback</td><td>function ( )</td><td>閉じるコールバック。設定される場合、
-添付ダイアログを閉じる前実行する。
-</td></tr>
+<tr><td>closeCallback</td><td>function ( )</td><td>閉じるコールバック。</td></tr>
 </table>
 
 

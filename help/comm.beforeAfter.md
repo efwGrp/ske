@@ -14,10 +14,10 @@ SQL実行後のイベントは検索結果の加工またはほかの処理を�
 |-|-|-|
 |検索前|function( condition, type ){ }|void \| Result|
 |検索後|function( condition, aryData, type ){ }|void \| Result|
-|削除前|function( deleteCondition ){ }|void \| Result|
-|削除後|function( deleteCondition ){ }|void \| Result|
-|保存前|function( formData ){ }|void \| Result|
-|保存後|function( formData ){ }|void \| Result|
+|削除前|function( [deleteConditionData](param.deleteConditionData.md) ){ }|void \| Result|
+|削除後|function( [deleteConditionData](param.deleteConditionData.md) ){ }|void \| Result|
+|保存前|function( [saveFormData](param.saveFormData.md) ){ }|void \| Result|
+|保存後|function( [saveFormData](param.saveFormData.md) ){ }|void \| Result|
 
 <table>
 <tr><th>引数</th><th>種類</th><th>説明</th></tr>
@@ -37,8 +37,6 @@ inputタイプの場合<a href="param.initFormData.md">initFormData</a>を参照
 	</table>
 
 </td></tr>
-<tr><td>deleteCondition</td><td>Object</td><td><a href="param.deleteConditionData.md">deleteConditionData</a>を参照。</td></tr>
-<tr><td>formData</td><td>Object</td><td><a href="param.saveFormData.md">saveFormData</a>を参照。</td></tr>
 </table>
 
 ### ここだよ
