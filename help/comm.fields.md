@@ -32,7 +32,7 @@
 <table>
 	<tr><th>インタフェース</th><th>戻り値</th></tr>
 	<tr><td>function( ){ }</td><td>any value</td></tr>
-	<tr><td>function( <a href="param.formData.md">formData</a> ){ }</td><td>any value</td></tr>
+	<tr><td>function( <a href="param.saveFormData.md">saveFormData</a> ){ }</td><td>any value</td></tr>
 </table>
 
 
