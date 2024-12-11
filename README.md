@@ -31,6 +31,8 @@
 <tr><td><a href="help/part.attachDialog.md">添付ダイアログ</a></td><td>標準部品</td></tr>
 <tr><td><a href="help/part.downloadDialog.md">ダウンロードダイアログ</a></td><td>標準部品</td></tr>
 <tr><td><a href="help/part.uploadDialog.md">アップロードダイアログ</a></td><td>標準部品</td></tr>
+<tr><td><a href="help/part.myPage.md">自作画面</a></td><td>自作部品</td></tr>
+<tr><td><a href="help/part.myDialog.md">自作ダイアログ</a></td><td>自作部品</td></tr>
 </table>
 
 ### メニュー定義
