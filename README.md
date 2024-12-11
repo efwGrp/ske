@@ -20,6 +20,19 @@
 <tr><td><a href="help/properties.md">プロパティの設定</a></td></tr>
 </table>
 
+### 部品モデル
+
+<table>
+<tr><th>部品</th><th>区分</th></tr>
+<tr><td><a href="help/part.listPage.md">一覧画面</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.inputPage.md">入力画面</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.inputDialog.md">入力ダイアログ</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.selectDialog.md">選択ダイアログ</a></td><td>標準部品・定義可能</td></tr>
+<tr><td><a href="help/part.attachDialog.md">添付ダイアログ</a></td><td>標準部品</td></tr>
+<tr><td><a href="help/part.downloadDialog.md">ダウンロードダイアログ</a></td><td>標準部品</td></tr>
+<tr><td><a href="help/part.uploadDialog.md">アップロードダイアログ</a></td><td>標準部品</td></tr>
+</table>
+
 ### メニュー定義
 <table>
 <tr><td><a href="help/menu.md">メニューの設定</a></td></tr>
@@ -32,17 +45,6 @@
 <tr><td><a href="help/comm.tableQuery.md">テーブル＆クエリの設定</a></td></tr>
 <tr><td><a href="help/comm.beforeAfter.md">CRUD前後イベントの設定</a></td></tr>
 <tr><td><a href="help/comm.fields.md">テーブル＆クエリ項目の設定</a></td></tr>
-</table>
-
-<table>
-<tr><th>部品</th><th>区分</th></tr>
-<tr><td><a href="help/part.listPage.md">一覧画面</a></td><td>標準部品・定義可能</td></tr>
-<tr><td><a href="help/part.inputPage.md">入力画面</a></td><td>標準部品・定義可能</td></tr>
-<tr><td><a href="help/part.inputDialog.md">入力ダイアログ</a></td><td>標準部品・定義可能</td></tr>
-<tr><td><a href="help/part.selectDialog.md">選択ダイアログ</a></td><td>標準部品・定義可能</td></tr>
-<tr><td><a href="help/part.attachDialog.md">添付ダイアログ</a></td><td>標準部品</td></tr>
-<tr><td><a href="help/part.downloadDialog.md">ダウンロードダイアログ</a></td><td>標準部品</td></tr>
-<tr><td><a href="help/part.uploadDialog.md">アップロードダイアログ</a></td><td>標準部品</td></tr>
 </table>
 
 <table>
