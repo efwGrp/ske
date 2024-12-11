@@ -20,21 +20,15 @@
 		以下の各モードの保存時、保存値を設定できる。
 		<table>
 			<tr><th>モード</th><th>説明</th><th>設定値</th></tr>
-			<tr><td>add</td><td>新規</td><td>null | 固定値 | 関数</td></tr>
-			<tr><td>copyAdd</td><td>コピー新規</td><td>null | 固定値 | 関数</td></tr>
-			<tr><td>edit</td><td>編集</td><td>null | 固定値 | 関数</td></tr>
+			<tr><td>add</td><td>新規</td><td>null | 固定値 | function( <a href="param.saveFormData.md">saveFormData</a> ){ }</td></tr>
+			<tr><td>copyAdd</td><td>コピー新規</td><td>null | 固定値 | function( <a href="param.saveFormData.md">saveFormData</a> ){ }</td></tr>
+			<tr><td>edit</td><td>編集</td><td>null | 固定値 | function( <a href="param.saveFormData.md">saveFormData</a> ){ }</td></tr>
 		</table>
+		関数の場合、関数の戻り値を利用する。
 		未設定(undefined)の場合、画面取得可能であれば画面値を利用する。
 		サンプル　※２
 	</td></tr>
 </table>
-関数のインタフェースは以下。
-<table>
-	<tr><th>インタフェース</th><th>戻り値</th></tr>
-	<tr><td>function( ){ }</td><td>any value</td></tr>
-	<tr><td>function( <a href="param.saveFormData.md">saveFormData</a> ){ }</td><td>any value</td></tr>
-</table>
-
 
 ※１：名称に特殊文字を含む場合、各DBのSQL規則に従ってコーテーションをつけてください。
 ```sql
