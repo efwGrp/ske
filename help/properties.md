@@ -4,9 +4,6 @@
 
 該当ファイルのベース説明は[efw.properties](https://github.com/efwGrp/efw4.X/blob/master/help/properties.web.md)をご参照ください。
 
-プロパティ設定値は日本語の場合<a href="https://tech-unlimited.com/escape-unicode.html">Unicodeエンコード</a>を行ってください。
-
-
 ske専用のプロパティは以下のようにリストする。
 
 <table>
