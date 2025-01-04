@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" 
+x="0px" y="0px" width="960px" height="570px" viewBox="0 0 960 570" enable-background="new 0 0 960 570">
+<image overflow="visible" width="960" height="570"
+xlink:href="../img/repository_listPage_header.png"></image>
+<rect x="130" y="188" width="310" height="30" stroke="red" fill="none" stroke-width="2" />
+</svg>
