@@ -39,4 +39,4 @@
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/inputDialog.png)
+[イメージ](https://efwgrp.github.io/ske/img/inputDialog.png)

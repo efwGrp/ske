@@ -8,7 +8,7 @@
 ```
 
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/header.title.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/header.title.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/header.title.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/header.title.listPage.svg)
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/header.title.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/header.title.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/header.title.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/header.title.inputPage.svg)
 

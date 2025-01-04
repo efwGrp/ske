@@ -41,4 +41,4 @@ inputタイプの場合<a href="param.initFormData.md">initFormData</a>を参照
 
 ### ここだよ
 
-[定義場所](https://efwgrp.github.io/ske_image/svg/comm.beforeAfter.svg)
+[定義場所](https://efwgrp.github.io/ske/svg/comm.beforeAfter.svg)

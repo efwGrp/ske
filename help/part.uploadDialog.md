@@ -22,4 +22,4 @@
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/uploadDialog.png)
+[イメージ](https://efwgrp.github.io/ske/img/uploadDialog.png)

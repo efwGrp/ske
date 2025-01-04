@@ -26,9 +26,9 @@ USER_selectDialog.dlg.dialog("option","width","500px");
 - 選択ダイアログ＞検索エリア＞[検索条件](condition.conds.md)
 
 ### ここだよ
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.width.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.width.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/base.width.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/base.width.inputPage.svg)
 
-入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.width.inputDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.width.inputDialog.svg)
+入力ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/base.width.inputDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/base.width.inputDialog.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.width.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/base.width.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/base.width.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/base.width.selectDialog.svg)
 

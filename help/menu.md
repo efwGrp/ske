@@ -35,6 +35,6 @@ $(".ASIDE #menu1").text(menu1+"(3)");//回数を表す数字をくっつける
 - 入力画面＞入力エリア＞[入力項目](input.fds.md)
 
 ### ここだよ
-[定義場所](https://efwgrp.github.io/ske_image/svg/menu.def.svg)、
-[利用場所１](https://efwgrp.github.io/ske_image/svg/menu.svg)、
-[利用場所２](https://efwgrp.github.io/ske_image/svg/menu.sidebar.svg)、
+[定義場所](https://efwgrp.github.io/ske/svg/menu.def.svg)、
+[利用場所１](https://efwgrp.github.io/ske/svg/menu.svg)、
+[利用場所２](https://efwgrp.github.io/ske/svg/menu.sidebar.svg)、

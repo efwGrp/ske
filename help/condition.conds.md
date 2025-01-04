@@ -17,9 +17,9 @@ like in between end not などWhere句に利用できる要素を分割して登
 "ユーザID" =:condユーザID
 ```
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.conds.listPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/condition.conds.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/condition.conds.listPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/condition.conds.listPage.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.conds.selectDialog.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/condition.conds.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/condition.conds.selectDialog.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/condition.conds.selectDialog.svg)
 

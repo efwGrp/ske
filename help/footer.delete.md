@@ -14,6 +14,6 @@
 
 ### ここだよ
 
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.delete.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.delete.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/footer.delete.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.delete.listPage.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.delete.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.delete.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/footer.delete.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.delete.selectDialog.svg)

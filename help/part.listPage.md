@@ -61,4 +61,4 @@
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/listPage.png)
+[イメージ](https://efwgrp.github.io/ske/img/listPage.png)

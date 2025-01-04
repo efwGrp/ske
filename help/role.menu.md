@@ -11,4 +11,4 @@
 
 ### ‚±‚±‚¾‚æ
 
-[’è‹`êŠ](https://efwgrp.github.io/ske_image/svg/role.menu.svg)
+[’è‹`êŠ](https://efwgrp.github.io/ske/svg/role.menu.svg)

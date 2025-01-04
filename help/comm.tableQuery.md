@@ -46,4 +46,4 @@ where not exists (
 
 ### ここだよ
 
-[定義場所](https://efwgrp.github.io/ske_image/svg/comm.tableQuery.svg)
+[定義場所](https://efwgrp.github.io/ske/svg/comm.tableQuery.svg)

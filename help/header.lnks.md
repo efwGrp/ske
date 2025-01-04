@@ -18,9 +18,9 @@
 #{defId} #{linkId}
 ```
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/header.lnks.listPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/header.lnks.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/header.lnks.listPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/header.lnks.listPage.svg)
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/header.lnks.inputPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/header.lnks.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/header.lnks.inputPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/header.lnks.inputPage.svg)
 

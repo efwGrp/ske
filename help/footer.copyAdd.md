@@ -15,6 +15,6 @@
 
 ### ここだよ
 
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.copyAdd.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.copyAdd.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/footer.copyAdd.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.copyAdd.listPage.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.copyAdd.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.copyAdd.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/footer.copyAdd.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.copyAdd.selectDialog.svg)

@@ -26,9 +26,9 @@ ${defId}_selectDialog .MAIN-TABLE TH:nth-child(n),${defId}_selectDialog .MAIN-TA
 選択結果列はIDがないから、順番nで特定する。1番目列はシステム用なので、2からスタートしてください。
 
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/ths.listPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/ths.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/ths.listPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/ths.listPage.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/ths.selectDialog.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/ths.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/ths.selectDialog.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/ths.selectDialog.svg)
 

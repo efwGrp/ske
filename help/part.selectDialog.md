@@ -63,5 +63,5 @@ USER_selectDialog.open({
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/selectDialog.png)
+[イメージ](https://efwgrp.github.io/ske/img/selectDialog.png)
 

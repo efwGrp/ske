@@ -13,9 +13,9 @@
 
 ### ここだよ
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.close.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.close.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/footer.close.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.close.inputPage.svg)
 
-入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.close.inputDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.close.inputDialog.svg)
+入力ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/footer.close.inputDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.close.inputDialog.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.close.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.close.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/footer.close.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.close.selectDialog.svg)
 

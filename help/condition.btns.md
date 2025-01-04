@@ -11,9 +11,9 @@
 </table>
 
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.btns.listPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/condition.btns.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/condition.btns.listPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/condition.btns.listPage.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.btns.selectDialog.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/condition.btns.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/condition.btns.selectDialog.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/condition.btns.selectDialog.svg)
 

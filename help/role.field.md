@@ -41,4 +41,4 @@
 </table>
 
 ### ここだよ
-[定義場所](https://efwgrp.github.io/ske_image/svg/role.field.svg)
+[定義場所](https://efwgrp.github.io/ske/svg/role.field.svg)

@@ -11,6 +11,6 @@
 ```
 
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.clear.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/condition.clear.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/condition.clear.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/condition.clear.listPage.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/condition.clear.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/condition.clear.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/condition.clear.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/condition.clear.selectDialog.svg)

@@ -47,4 +47,4 @@
 
 ### ここだよ
 
-[定義場所](https://efwgrp.github.io/ske_image/svg/comm.fields.svg)
+[定義場所](https://efwgrp.github.io/ske/svg/comm.fields.svg)

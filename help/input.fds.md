@@ -15,9 +15,9 @@
 </table>
 
 ### ここだよ
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/input.fds.inputPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/input.fds.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/input.fds.inputPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/input.fds.inputPage.svg)
 
-入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/input.fds.inputDialog.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/input.fds.inputDialog.svg)
+入力ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/input.fds.inputDialog.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/input.fds.inputDialog.svg)
 

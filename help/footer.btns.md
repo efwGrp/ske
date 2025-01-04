@@ -24,16 +24,16 @@
 
 
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.btns.listPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/footer.btns.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/footer.btns.listPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/footer.btns.listPage.svg)
 
-選択ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.btns.selectDialog.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/footer.btns.selectDialog.svg)
+選択ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/footer.btns.selectDialog.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/footer.btns.selectDialog.svg)
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.btns.inputPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/footer.btns.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/footer.btns.inputPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/footer.btns.inputPage.svg)
 
-入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/footer.btns.inputDialog.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/footer.btns.inputDialog.svg)
+入力ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/footer.btns.inputDialog.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/footer.btns.inputDialog.svg)
 
 

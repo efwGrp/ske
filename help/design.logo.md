@@ -11,5 +11,5 @@ youapp/img/
 ```
 
 ### ここだよ
-[利用場所](https://efwgrp.github.io/ske_image/svg/design.logo.svg)
+[利用場所](https://efwgrp.github.io/ske/svg/design.logo.svg)
 

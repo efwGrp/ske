@@ -47,4 +47,4 @@ MAXLENGTH="10"  STYLE="width:200px"></NOBR>
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/myDialog.png)
+[イメージ](https://efwgrp.github.io/ske/img/myDialog.png)

@@ -20,9 +20,9 @@
 ```
 
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/header.icos.listPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/header.icos.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/header.icos.listPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/header.icos.listPage.svg)
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/header.icos.inputPage.def.svg)、
-[利用場所](https://efwgrp.github.io/ske_image/svg/header.icos.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/header.icos.inputPage.def.svg)、
+[利用場所](https://efwgrp.github.io/ske/svg/header.icos.inputPage.svg)
 

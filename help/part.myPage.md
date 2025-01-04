@@ -62,4 +62,4 @@ $(function(){
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/myPage.png)
+[イメージ](https://efwgrp.github.io/ske/img/myPage.png)

@@ -53,4 +53,4 @@ Excelテンプレートの「data」シートに出力し、表示用シート�
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/downloadDialog.png)
+[イメージ](https://efwgrp.github.io/ske/img/downloadDialog.png)

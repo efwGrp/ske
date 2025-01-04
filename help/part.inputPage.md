@@ -47,4 +47,4 @@
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/inputPage.png)
+[イメージ](https://efwgrp.github.io/ske/img/inputPage.png)

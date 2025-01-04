@@ -30,4 +30,4 @@
 
 ## ここだよ
 
-[イメージ](https://efwgrp.github.io/ske_image/img/attachDialog.png)
+[イメージ](https://efwgrp.github.io/ske/img/attachDialog.png)

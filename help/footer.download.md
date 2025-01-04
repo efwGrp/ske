@@ -11,4 +11,4 @@
 
 ### ここだよ
 
-[定義場所](https://efwgrp.github.io/ske_image/svg/footer.download.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.download.listPage.svg)
+[定義場所](https://efwgrp.github.io/ske/svg/footer.download.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.download.listPage.svg)

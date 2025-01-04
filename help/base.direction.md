@@ -10,9 +10,9 @@
 
 ### ここだよ
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/base.direction.inputPage.def.svg)
-、[利用場所](https://efwgrp.github.io/ske_image/svg/base.direction.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/base.direction.inputPage.def.svg)
+、[利用場所](https://efwgrp.github.io/ske/svg/base.direction.inputPage.svg)
 
-入力ダイアログ：[定義場所](https://efwgrp.github.io/ske_image/svg/base.direction.inputDialog.def.svg)
-、[利用場所](https://efwgrp.github.io/ske_image/svg/base.direction.inputDialog.svg)
+入力ダイアログ：[定義場所](https://efwgrp.github.io/ske/svg/base.direction.inputDialog.def.svg)
+、[利用場所](https://efwgrp.github.io/ske/svg/base.direction.inputDialog.svg)
 

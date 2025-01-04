@@ -28,4 +28,4 @@ function(formData){
 
 ### ここだよ
 
-[定義場所](https://efwgrp.github.io/ske_image/svg/footer.select.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/footer.select.selectDialog.svg)
+[定義場所](https://efwgrp.github.io/ske/svg/footer.select.selectDialog.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/footer.select.selectDialog.svg)

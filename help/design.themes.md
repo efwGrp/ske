@@ -25,4 +25,4 @@ skeエンジンはJquery-UIの25種類テーマを搭載しており、ログイ
 
 
 ### ここだよ
-[利用場所](https://efwgrp.github.io/ske_image/svg/design.themes.svg)
+[利用場所](https://efwgrp.github.io/ske/svg/design.themes.svg)

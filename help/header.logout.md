@@ -10,6 +10,6 @@
 ```
 
 ### ここだよ
-一覧画面：[定義場所](https://efwgrp.github.io/ske_image/svg/header.logout.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/header.logout.listPage.svg)
+一覧画面：[定義場所](https://efwgrp.github.io/ske/svg/header.logout.listPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/header.logout.listPage.svg)
 
-入力画面：[定義場所](https://efwgrp.github.io/ske_image/svg/header.logout.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske_image/svg/header.logout.inputPage.svg)
+入力画面：[定義場所](https://efwgrp.github.io/ske/svg/header.logout.inputPage.def.svg)、[利用場所](https://efwgrp.github.io/ske/svg/header.logout.inputPage.svg)
