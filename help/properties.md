@@ -26,6 +26,13 @@ ske専用のプロパティは以下のようにリストする。
   <tr><td colspan=2>ログイン時選択候補のテーマ名リスト、カンマ区切り。
   各テーマの詳細はEfwの<a href="https://github.com/efwGrp/efw4.X/blob/master/help/tag.client.md">Client</a>タグの説明をご参考ください。
   <a href="https://efwgrp.github.io/ske/svg/properties.themes.svg">利用場所</a></td></tr>
+  <tr><td>efw.skeleton.language.key</td><td>LOGIN_LANG</td></tr>
+  <tr><td colspan=2>ログイン時選択された言語のセッションキー。</td></tr>
+  <tr><td>efw.skeleton.language.default</td><td>jp</td></tr>
+  <tr><td colspan=2>初回システム利用時の言語を設定する。ログイン時選択された言語はクッキーに保存して、次回システム利用時はクッキーから言語を特定する。</td></tr>
+  <tr><td>efw.skeleton.languages</td><td>jp,en,cn</td></tr>
+  <tr><td colspan=2>ログイン時選択候補の言語のリスト、カンマ区切り。
+  <a href="https://efwgrp.github.io/ske/svg/properties.languages.svg">利用場所</a></td></tr>
   <tr><td>efw.skeleton.csv.charset</td><td>MS932</td></tr>
   <tr><td colspan=2>ダウンロードするCSVファイルの文字コード。<a href="https://efwgrp.github.io/ske/svg/properties.csv.charset.svg">利用場所</a></td></tr>
 </table>
