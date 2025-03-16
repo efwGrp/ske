@@ -7,12 +7,15 @@
 - 新しい画面追加の手順
 - 新しいロール追加の手順
 - カスタマイズ部品追加の手順
+- 多国語対応の手順
+- 多DB対応の手順
 
 # API
 ### デザイン
 <table>
 <tr><td><a href="help/design.logo.md">ロゴの設定</a></td></tr>
 <tr><td><a href="help/design.themes.md">テーマの設定</a></td></tr>
+<tr><td><a href="help/design.languages.md">言語の設定</a></td></tr>
 </table>
 
 ### プロパティ
