@@ -8,7 +8,7 @@
 - 新しいロール追加の手順
 - カスタマイズ部品追加の手順
 - [多国語対応の手順](https://qiita.com/changkejun/items/a656091d345158e8871f)
-- 多DB対応の手順
+- [多種類DB対応の手順](https://qiita.com/changkejun/items/e805eef2c8a2fe134d6f)
 
 # API
 ### デザイン
