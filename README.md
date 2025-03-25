@@ -3,8 +3,7 @@
 
 ## 手順
 - [環境構築の手順](https://qiita.com/changkejun/items/52a786eaed1a1c6ac98b)
-- 新しいメニュー追加の手順
-- 新しい画面追加の手順
+- [プロトタイプ作成の手順](https://qiita.com/changkejun/items/2f25030223b7d3f0091f)
 - 新しいロール追加の手順
 - カスタマイズ部品追加の手順
 - [多国語対応の手順](https://qiita.com/changkejun/items/a656091d345158e8871f)
