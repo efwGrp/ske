@@ -19,9 +19,8 @@
 変換処理を登録可能。インタフェースは以下。
 <table>
 <tr><th>部品</th><th>インタフェース</th></tr>
-<tr><td>一覧画面</td><td>String | function(data){}</td></tr>
+<tr><td>一覧画面</td><td rowspan=2>String | function(data){}</td></tr>
 <tr><td>検索ダイアログ</td></tr>
-</td></tr>
 </table>
 
 以下のJquery式で特定可能。
