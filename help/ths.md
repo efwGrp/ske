@@ -17,7 +17,9 @@
 例：#,##0.0　yyyy/MM/dd HH:mm　
 参考：<a href="https://github.com/efwGrp/efw4.X/blob/master/help/formatter&rounder.md">formatter&rounder</a>
 フォーマット式で対応できない場合、関数登録が可能。
+
 ```function(data){return "処理後の結果";}```
+
 </td></tr>
 </table>
 
