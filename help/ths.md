@@ -15,7 +15,10 @@
 <tr><td>揃え</td><td>列の揃え。left | center | right 未定義の場合leftと同じ取り扱い。</td></tr>
 <tr><td>フォーマット</td><td>数字と日付項目の表示フォーマット。
 例：#,##0.0　yyyy/MM/dd HH:mm　
-参考：<a href="https://github.com/efwGrp/efw4.X/blob/master/help/formatter&rounder.md">formatter&rounder</a></td></tr>
+参考：<a href="https://github.com/efwGrp/efw4.X/blob/master/help/formatter&rounder.md">formatter&rounder</a>
+フォーマット式で対応できない場合、関数登録が可能。
+```function(data){return "処理後の結果";}```
+</td></tr>
 </table>
 
 以下のJquery式で特定可能。
