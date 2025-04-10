@@ -17,10 +17,9 @@
 例：#,##0.0　yyyy/MM/dd HH:mm　
 参考：<a href="https://github.com/efwGrp/efw4.X/blob/master/help/formatter&rounder.md">formatter&rounder</a>
 変換処理を登録可能。インタフェースは以下。
-	<table>
-	<tr><th>部品</th><th>インタフェース</th></tr>
+	<table><tr><th>部品</th><th>インタフェース</th></tr>
 	<tr><td>一覧画面</td><td rowspan=2>String | function(data){}</td></tr>
-	<tr><td>検索ダイアログ</td></tr>
+	<tr><td>検索ダイアログ</td></tr></table>
 </td></tr>
 </table>
 
