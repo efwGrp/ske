@@ -16,10 +16,11 @@
 <tr><td>フォーマット</td><td>数字と日付項目の表示フォーマット。
 例：#,##0.0　yyyy/MM/dd HH:mm　
 参考：<a href="https://github.com/efwGrp/efw4.X/blob/master/help/formatter&rounder.md">formatter&rounder</a>
-フォーマット式で対応できない場合、関数登録が可能。
-
-```function(data){return "処理後の結果";}```
-
+変換処理を登録可能。インタフェースは以下。
+<table>
+<tr><th>部品</th><th>インタフェース</th></tr>
+<tr><td>一覧画面</td><td>String | function(data){}</td></tr>
+<tr><td>検索ダイアログ</td></tr>
 </td></tr>
 </table>
 
