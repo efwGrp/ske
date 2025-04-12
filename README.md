@@ -7,7 +7,7 @@
 - [標準部品の鮮やかな表現力](https://qiita.com/changkejun/items/6918a886d76132d98496)
 - [標準部品アドオン開発の紹介](https://qiita.com/changkejun/items/51e0d436b6c917269b51)<br>
 　[自動採番のさまざま](https://qiita.com/changkejun/items/6ebe7d24fd54feac5be3)<br>
-　更新日時の排他処理<br>
+　[更新日時の排他処理](https://qiita.com/changkejun/items/532e5a177782937d2842)<br>
 　階層連動ドロップダウン<br>
 　選択ダイアログの利用<br>
 　検索結果に状態アイコン表示<br>
