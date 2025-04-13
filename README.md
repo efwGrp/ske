@@ -10,7 +10,7 @@
 　[更新日時の排他処理](https://qiita.com/changkejun/items/532e5a177782937d2842)<br>
 　[階層連動ドロップダウン](https://qiita.com/changkejun/items/c3837e00fa42f0381795)<br>
 　[選択ダイアログの利用](https://qiita.com/changkejun/items/0cee4173eac17ce7cf98)<br>
-　検索結果に状態アイコン表示<br>
+　[検索結果の加工](https://qiita.com/changkejun/items/d36c8bbe3c74ceaaddb9)<br>
 - 新しいロール追加の手順
 - カスタマイズ部品追加の手順
 - [多国語対応の手順](https://qiita.com/changkejun/items/a656091d345158e8871f)
