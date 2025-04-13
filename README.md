@@ -9,7 +9,7 @@
 　[自動採番のさまざま](https://qiita.com/changkejun/items/6ebe7d24fd54feac5be3)<br>
 　[更新日時の排他処理](https://qiita.com/changkejun/items/532e5a177782937d2842)<br>
 　[階層連動ドロップダウン](https://qiita.com/changkejun/items/c3837e00fa42f0381795)<br>
-　選択ダイアログの利用<br>
+　[選択ダイアログの利用](https://qiita.com/changkejun/items/0cee4173eac17ce7cf98)<br>
 　検索結果に状態アイコン表示<br>
 - 新しいロール追加の手順
 - カスタマイズ部品追加の手順
