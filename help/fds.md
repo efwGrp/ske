@@ -29,31 +29,33 @@
 - タイプ
 <table>
 	<tr><th>項目種類</th><th>説明</th><th>フォーマット</th><th>最大値</th><th>最小値</th><th>最大文字数</th><th>ソース</th>
-	<th>タイトル幅</th><th>入力枠幅</th><th>入力枠高さ</th><th>値</th><th>編集不可</th>
+	<th>タイトル幅</th><th>入力枠幅</th><th>入力枠高さ</th><th>値</th><th>編集不可</th><th>必須</th>
 	<th>タイトル操作</th><th>入力枠操作</th></tr>
-	<tr><td>text</td><td>単一行テキストの入力欄</td>					<td>〇</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>password</td><td>入力値を隠す単一行テキストの入力欄</td>	<td>〇</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>textarea</td><td>テキストエリア</td>						<td>〇</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>hidden</td><td>表示されないコントロール</td>				<td>〇</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>-</td><td>-</td></tr>
-	<tr><td>date</td><td>日付の入力欄</td>								<td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>datetime</td><td>日付時刻の入力欄</td>						<td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>month</td><td>年月の入力欄</td>								<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>week</td><td>週の入力欄</td>								<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>time</td><td>時刻の入力欄</td>								<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>color</td><td>カラーのコントロール</td>						<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>range</td><td>範囲のコントロール</td>						<td>-</td><td>〇</td><td>〇</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>number</td><td>増減数値の入力欄</td>						<td>-</td><td>〇</td><td>〇</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>money0</td><td>小数点以降0桁金額の入力欄</td>				<td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>money1</td><td>小数点以降1桁金額の入力欄</td>				<td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>money2</td><td>小数点以降2桁金額の入力欄</td>				<td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>money3</td><td>小数点以降3桁金額の入力欄</td>				<td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>checkbox</td><td>チェックボックス</td>						<td>〇</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>radio</td><td>ラジオボタン</td>								<td>〇</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>combox</td><td>コンボックス</td>							<td>〇</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
-	<tr><td>button</td><td>ボタン</td>									<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td></tr>
-	<tr><td>img</td><td>画像</td>										<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>-</td><td>-</td></tr>
-	<tr><td>span</td><td>ラベル</td>									<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>-</td><td>-</td></tr>
+	<tr><td>text</td><td>単一行テキストの入力欄</td>					<td>〇</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>password</td><td>入力値を隠す単一行テキストの入力欄</td>	<td>〇</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>textarea</td><td>テキストエリア</td>						<td>〇</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>hidden</td><td>表示されないコントロール</td>				<td>〇</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>〇※1</td><td>-</td><td>-</td></tr>
+	<tr><td>date</td><td>日付の入力欄</td>								<td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>datetime</td><td>日付時刻の入力欄</td>						<td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>month</td><td>年月の入力欄</td>								<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>week</td><td>週の入力欄</td>								<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>time</td><td>時刻の入力欄</td>								<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>color</td><td>カラーのコントロール</td>						<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>range</td><td>範囲のコントロール</td>						<td>-</td><td>〇</td><td>〇</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>number</td><td>増減数値の入力欄</td>						<td>-</td><td>〇</td><td>〇</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>money0</td><td>小数点以降0桁金額の入力欄</td>				<td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>money1</td><td>小数点以降1桁金額の入力欄</td>				<td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>money2</td><td>小数点以降2桁金額の入力欄</td>				<td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>money3</td><td>小数点以降3桁金額の入力欄</td>				<td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>checkbox</td><td>チェックボックス</td>						<td>〇</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td></tr>
+	<tr><td>radio</td><td>ラジオボタン</td>								<td>〇</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>combox</td><td>コンボックス</td>							<td>〇</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
+	<tr><td>button</td><td>ボタン</td>									<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>-</td><td>-</td><td>〇</td></tr>
+	<tr><td>img</td><td>画像</td>										<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+	<tr><td>span</td><td>ラベル</td>									<td>△</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>〇</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
 </table>
+※1、hidden項目に必須を設定することにより、クライアントの改ざんを防ぐ効果があります。
+
 
 - フォーマット
 
@@ -127,6 +129,10 @@ comboxとradioの選択肢。配列または初期化処理を登録可能。イ
 - 編集不可
 
 非活性する場合設定する。
+
+- 必須
+
+項目が空白のままで処理が進めない場合設定する。
 
 - タイトル操作
 
