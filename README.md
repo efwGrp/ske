@@ -47,6 +47,13 @@
 <tr><td><a href="help/part.myDialog.md">自作ダイアログ</a></td><td>自作部品</td></tr>
 </table>
 
+### ロール定義
+<table>
+<tr><td><a href="help/role.menu.md">メニュー閲覧可の設定</a></td></tr>
+<tr><td><a href="help/role.page.md">メイン画面閲覧可の設定</a></td></tr>
+<tr><td><a href="help/role.field.md">画面項目非活性非表示の設定</a></td></tr>
+</table>
+
 ### メニュー定義
 <table>
 <tr><td><a href="help/menu.md">メニューの設定</a></td></tr>
@@ -107,9 +114,3 @@
 <tr><td>[<a href="help/footer.btns.md">追加ボタン</a>]</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
 </table>
 
-### ロール定義
-<table>
-<tr><td><a href="help/role.menu.md">メニュー閲覧可の設定</a></td></tr>
-<tr><td><a href="help/role.page.md">メイン画面閲覧可の設定</a></td></tr>
-<tr><td><a href="help/role.field.md">画面項目非活性非表示の設定</a></td></tr>
-</table>
