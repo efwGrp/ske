@@ -3,7 +3,7 @@
 [![SKE Runtime](./img/ske_runtime.png)](./img/ske_runtime_org.png)
 [![SKE Editor](./img/ske_editor.png)](./img/ske_editor_org.png)
 - [SKEとは](https://qiita.com/changkejun/items/da8e3d944879bd60a7a9)
-## 手順
+## 手順＆説明
 - [環境構築の手順](https://qiita.com/changkejun/items/52a786eaed1a1c6ac98b)
 - [プロトタイプ作成の手順](https://qiita.com/changkejun/items/2f25030223b7d3f0091f)
 - [標準部品の鮮やかな表現力](https://qiita.com/changkejun/items/6918a886d76132d98496)
@@ -17,6 +17,7 @@
 - カスタマイズ部品追加の手順
 - [多国語対応の手順](https://qiita.com/changkejun/items/a656091d345158e8871f)
 - [多種類DB対応の手順](https://qiita.com/changkejun/items/e805eef2c8a2fe134d6f)
+- インタネット公開の注意事項
 
 # API
 ### デザイン
