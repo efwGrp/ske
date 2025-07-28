@@ -114,3 +114,7 @@
 <tr><td>[<a href="help/footer.btns.md">追加ボタン</a>]</td><td>〇</td><td>〇</td><td>〇</td><td>〇</td></tr>
 </table>
 
+# 導入実績
+
+[![ESCCO](help/img/logos/escco.png)](https://www.escco.co.jp) 
+[![JOT](help/img/logos/jot.png)](https://www.jotnw.or.jp/)
