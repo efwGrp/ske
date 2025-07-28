@@ -116,5 +116,5 @@
 
 # 導入実績
 
-[![ESCCO](help/img/logos/escco.png)](https://www.escco.co.jp) 
-[![JOT](help/img/logos/jot.png)](https://www.jotnw.or.jp/)
+[![ESCCO](img/logos/escco.png)](https://www.escco.co.jp) 
+[![JOT](img/logos/jot.png)](https://www.jotnw.or.jp/)
