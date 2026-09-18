@@ -18,7 +18,7 @@
 <tr><td>保存</td><td>{defId}_inputDialog.save ( )</td><td>void</td><td>※１、{defId}_inputDialog_saveイベントを実行する。</td></tr>
 <tr><td>閉じる</td><td>{defId}_inputDialog.close ( )</td><td>void</td><td></td></tr>
 <tr><th>ダイアログ</th></tr>
-<tr><td>ロール別の画面項目制限を実行</td><td>{defId}.doRoleConfig ( mode )</td><td>void</td><td></td></tr>
+<tr><td>ロール別の画面項目制限を実行</td><td>{defId}_inputDialog.doRoleConfig ( mode )</td><td>void</td><td></td></tr>
 </table>
 
 ※１、該当メソッドは、リポジトリ定義により追加または削除される。
