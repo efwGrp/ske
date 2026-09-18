@@ -10,7 +10,7 @@
 <tr><th>呼び出し</th></tr>
 <tr><td>開く</td><td>uploadDialog.open ( defId, closeCallback )</td><td>void</td><td></td></tr>
 <tr><th>フッター</th></tr>
-<tr><td>ダウンロード</td><td>uploadDialog.download ( )</td><td>void</td><td>{defId}_listPage_uploadイベントを実行する。</td></tr>
+<tr><td>ダウンロード</td><td>uploadDialog.upload ( )</td><td>void</td><td>{defId}_listPage_uploadイベントを実行する。</td></tr>
 <tr><td>閉じる</td><td>uploadDialog.close ( )</td><td>void</td><td></td></tr>
 </table>
 
