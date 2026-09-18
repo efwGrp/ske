@@ -19,10 +19,10 @@
 		<td rowspan=2>String | function( <a href="param.initFormData.md">initFormData</a>, dbData, <a href="https://github.com/efwGrp/efw4.X/blob/master/README.md#Result">result</a> ){ }</td>
 	<tr><td>入力ダイアログ</td></tr>
 </table>
-タイトルの文字列にhtmlタグを取り込んで、さらに鮮やかの表現ができる。以下の例は入力枠の右枠に虫眼鏡アイコンと消しゴムアイコンを追加する書き方。
+タイトルの文字列にhtmlタグを取り込んで、さらに鮮やかの表現ができる。以下の例はラベルに虫眼鏡アイコンと消しゴムアイコンを追加する書き方。
 
 ```html
-<span style="display: inline-block;width:200px">承認者1</span><i class="bi-search" style="position:relative;left:200px;"></i><i class="bi-eraser" style="position:relative;left:210px;"></i>
+<span>承認者1</span>　<i class="bi-search"> </i>　<i class="bi-eraser"> </i>
 ```
 
 
