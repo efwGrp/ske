@@ -85,7 +85,7 @@
 <tr><td><a href="help/header.title.md">タイトル</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
 <tr><td><a href="help/header.profile.md">プロファイル</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
 <tr><td><a href="help/header.logout.md">ログアウト</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
-<tr><td><a href="help/header.menu.md">メニュー</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
+<tr><td><a href="help/header.gotomenu.md">メニューへ</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
 <tr><td><a href="help/header.sidebar.md">サイドバー</a></td><td>〇</td><td>〇</td><td></td><td></td></tr>
 <tr><td>[<a href="help/header.icos.md">追加アイコン</a>]</td><td>〇</td><td>〇</td><td></td><td></td></tr>
 <tr><td>[<a href="help/header.lnks.md">追加リンク</a>]</td><td>〇</td><td>〇</td><td></td><td></td></tr>

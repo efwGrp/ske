@@ -6,7 +6,7 @@
 
 以下のJquery式で特定可能。
 ```
-#{defId}_header td.GOTO-MENU
+#{defId}_header .GOTO-MENU
 ```
 
 ### ここだよ

@@ -4,7 +4,7 @@
 
 以下のJquery式で特定可能。
 ```
-#{defId}_header td:eq(1)
+#{defId}_header .HEADER-TITLE
 ```
 
 ### ここだよ

@@ -6,7 +6,7 @@
 
 以下のJquery式で特定可能。
 ```
-#{defId}_header td:eq(2) i.bi-box-arrow-right
+#{defId}_header .HEADER-LOGOUT
 ```
 
 ### ここだよ
