@@ -6,17 +6,20 @@
 
 部品の高さをプログラムで動的に値を設定することを推奨しないが、以下のクライアント
 javaScriptを画面初期化のアドオンにevalで実行させるようにすれば対応可能になる。
+該当調整はPCとタブレット向けに有効。スマートフォン向けには有効ではない。
 
 ```js
 //入力画面の場合、下位divに対して設定する
-var width=$("#USER_form>div>div").css("height");
-$("#USER_form>div>div").css("height","500px");
-//入力ダイアログの場合、ダイアログIDは{defId}_inputDialogになる
-var width=USER_inputDialog.dlg.dialog("option","height");
-USER_inputDialog.dlg.dialog("option","height","500px");
-//と選択ダイアログの場合、ダイアログIDは{defId}_selectDialogになる
-var title=USER_selectDialog.dlg.dialog("option","height");
-USER_selectDialog.dlg.dialog("option","height","500px");
+if (efw.mode == "jquery-ui"){
+	var width=$("#USER_form>div>div").css("height");
+	$("#USER_form>div>div").css("height","500px");
+	//入力ダイアログの場合、ダイアログIDは{defId}_inputDialogになる
+	var width=USER_inputDialog.dlg.dialog("option","height");
+	USER_inputDialog.dlg.dialog("option","height","500px");
+	//と選択ダイアログの場合、ダイアログIDは{defId}_selectDialogになる
+	var title=USER_selectDialog.dlg.dialog("option","height");
+	USER_selectDialog.dlg.dialog("option","height","500px");
+}
 ```
 画面初期化のアドオンは以下のようにリストする。
 

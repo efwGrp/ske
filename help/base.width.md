@@ -1,34 +1,37 @@
-## •”•i‚Ì•
+## éƒ¨å“ã®å¹…
 
-ˆê——‰æ–Ê‚Ìê‡A•‚Í100%ŒÅ’è‚Åİ’è‚ª•K—v‚È‚¢B
-“ü—Í‰æ–Ê‚Ìê‡A•‚Ìİ’è‚Í“ü—ÍƒGƒŠƒA‚ÌƒTƒCƒY’²®‚É“]—p‚³‚ê‚éB
-“ü—Íƒ_ƒCƒAƒƒO‚Æ‘I‘ğƒ_ƒCƒAƒƒO‚Ìê‡AJquery-UI‚Ìƒ_ƒCƒAƒƒO‚Ì•‚É‚ ‚½‚éB
+ä¸€è¦§ç”»é¢ã®å ´åˆã€å¹…ã¯100%å›ºå®šã§è¨­å®šãŒå¿…è¦ãªã„ã€‚
+å…¥åŠ›ç”»é¢ã®å ´åˆã€å¹…ã®è¨­å®šã¯å…¥åŠ›ã‚¨ãƒªã‚¢ã®ã‚µã‚¤ã‚ºèª¿æ•´ã«è»¢ç”¨ã•ã‚Œã‚‹ã€‚
+å…¥åŠ›ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ã¨é¸æŠãƒ€ã‚¤ã‚¢ãƒ­ã‚°ã®å ´åˆã€Jquery-UIã®ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ã®å¹…ã«ã‚ãŸã‚‹ã€‚
 
-•”•i‚Ì•‚ğƒvƒƒOƒ‰ƒ€‚Å“®“I‚É’l‚ğİ’è‚·‚é‚±‚Æ‚ğ„§‚µ‚È‚¢‚ªAˆÈ‰º‚ÌƒNƒ‰ƒCƒAƒ“ƒg
-javaScript‚ğ‰æ–Ê‰Šú‰»‚ÌƒAƒhƒIƒ“‚Éeval‚ÅÀs‚³‚¹‚é‚æ‚¤‚É‚·‚ê‚Î‘Î‰‰Â”\‚É‚È‚éB
+éƒ¨å“ã®å¹…ã‚’ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã§å‹•çš„ã«å€¤ã‚’è¨­å®šã™ã‚‹ã“ã¨ã‚’æ¨å¥¨ã—ãªã„ãŒã€ä»¥ä¸‹ã®ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆ
+javaScriptã‚’ç”»é¢åˆæœŸåŒ–ã®ã‚¢ãƒ‰ã‚ªãƒ³ã«evalã§å®Ÿè¡Œã•ã›ã‚‹ã‚ˆã†ã«ã™ã‚Œã°å¯¾å¿œå¯èƒ½ã«ãªã‚‹ã€‚
+è©²å½“èª¿æ•´ã¯PCã¨ã‚¿ãƒ–ãƒ¬ãƒƒãƒˆå‘ã‘ã«æœ‰åŠ¹ã€‚ã‚¹ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ³å‘ã‘ã«ã¯æœ‰åŠ¹ã§ã¯ãªã„ã€‚
 
 ```js
-//“ü—Í‰æ–Ê‚Ìê‡A‰ºˆÊdiv‚É‘Î‚µ‚Äİ’è‚·‚é
-var width=$("#USER_form>div>div").css("width");
-$("#USER_form>div>div").css("width","500px");
-//“ü—Íƒ_ƒCƒAƒƒO‚Ìê‡Aƒ_ƒCƒAƒƒOID‚Í{defId}_inputDialog‚É‚È‚é
-var width=USER_inputDialog.dlg.dialog("option","width");
-USER_inputDialog.dlg.dialog("option","width","500px");
-//‚Æ‘I‘ğƒ_ƒCƒAƒƒO‚Ìê‡Aƒ_ƒCƒAƒƒOID‚Í{defId}_selectDialog‚É‚È‚é
-var title=USER_selectDialog.dlg.dialog("option","width");
-USER_selectDialog.dlg.dialog("option","width","500px");
+//å…¥åŠ›ç”»é¢ã®å ´åˆã€ä¸‹ä½divã«å¯¾ã—ã¦è¨­å®šã™ã‚‹
+if (efw.mode == "jquery-ui"){
+	var width=$("#USER_form>div>div").css("width");
+	$("#USER_form>div>div").css("width","500px");
+	//å…¥åŠ›ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ã®å ´åˆã€ãƒ€ã‚¤ã‚¢ãƒ­ã‚°IDã¯{defId}_inputDialogã«ãªã‚‹
+	var width=USER_inputDialog.dlg.dialog("option","width");
+	USER_inputDialog.dlg.dialog("option","width","500px");
+	//ã¨é¸æŠãƒ€ã‚¤ã‚¢ãƒ­ã‚°ã®å ´åˆã€ãƒ€ã‚¤ã‚¢ãƒ­ã‚°IDã¯{defId}_selectDialogã«ãªã‚‹
+	var title=USER_selectDialog.dlg.dialog("option","width");
+	USER_selectDialog.dlg.dialog("option","width","500px");
+}
 ```
-‰æ–Ê‰Šú‰»‚ÌƒAƒhƒIƒ“‚ÍˆÈ‰º‚Ì‚æ‚¤‚ÉƒŠƒXƒg‚·‚éB
+ç”»é¢åˆæœŸåŒ–ã®ã‚¢ãƒ‰ã‚ªãƒ³ã¯ä»¥ä¸‹ã®ã‚ˆã†ã«ãƒªã‚¹ãƒˆã™ã‚‹ã€‚
 
-- ˆê——‰æ–Ê„ŒŸõƒGƒŠƒA„[ŒŸõğŒ](condition.conds.md)
-- “ü—Í‰æ–Ê„“ü—ÍƒGƒŠƒA„[“ü—Í€–Ú](input.fds.md)
-- “ü—Íƒ_ƒCƒAƒƒO„“ü—ÍƒGƒŠƒA„[“ü—Í€–Ú](input.fds.md)
-- ‘I‘ğƒ_ƒCƒAƒƒO„ŒŸõƒGƒŠƒA„[ŒŸõğŒ](condition.conds.md)
+- ä¸€è¦§ç”»é¢ï¼æ¤œç´¢ã‚¨ãƒªã‚¢ï¼[æ¤œç´¢æ¡ä»¶](condition.conds.md)
+- å…¥åŠ›ç”»é¢ï¼å…¥åŠ›ã‚¨ãƒªã‚¢ï¼[å…¥åŠ›é …ç›®](input.fds.md)
+- å…¥åŠ›ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ï¼å…¥åŠ›ã‚¨ãƒªã‚¢ï¼[å…¥åŠ›é …ç›®](input.fds.md)
+- é¸æŠãƒ€ã‚¤ã‚¢ãƒ­ã‚°ï¼æ¤œç´¢ã‚¨ãƒªã‚¢ï¼[æ¤œç´¢æ¡ä»¶](condition.conds.md)
 
-### ‚±‚±‚¾‚æ
-“ü—Í‰æ–ÊF[’è‹`êŠ](https://efwgrp.github.io/ske/svg/base.width.inputPage.def.svg)A[—˜—pêŠ](https://efwgrp.github.io/ske/svg/base.width.inputPage.svg)
+### ã“ã“ã ã‚ˆ
+å…¥åŠ›ç”»é¢ï¼š[å®šç¾©å ´æ‰€](https://efwgrp.github.io/ske/svg/base.width.inputPage.def.svg)ã€[åˆ©ç”¨å ´æ‰€](https://efwgrp.github.io/ske/svg/base.width.inputPage.svg)
 
-“ü—Íƒ_ƒCƒAƒƒOF[’è‹`êŠ](https://efwgrp.github.io/ske/svg/base.width.inputDialog.def.svg)A[—˜—pêŠ](https://efwgrp.github.io/ske/svg/base.width.inputDialog.svg)
+å…¥åŠ›ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ï¼š[å®šç¾©å ´æ‰€](https://efwgrp.github.io/ske/svg/base.width.inputDialog.def.svg)ã€[åˆ©ç”¨å ´æ‰€](https://efwgrp.github.io/ske/svg/base.width.inputDialog.svg)
 
-‘I‘ğƒ_ƒCƒAƒƒOF[’è‹`êŠ](https://efwgrp.github.io/ske/svg/base.width.selectDialog.def.svg)A[—˜—pêŠ](https://efwgrp.github.io/ske/svg/base.width.selectDialog.svg)
+é¸æŠãƒ€ã‚¤ã‚¢ãƒ­ã‚°ï¼š[å®šç¾©å ´æ‰€](https://efwgrp.github.io/ske/svg/base.width.selectDialog.def.svg)ã€[åˆ©ç”¨å ´æ‰€](https://efwgrp.github.io/ske/svg/base.width.selectDialog.svg)
 
